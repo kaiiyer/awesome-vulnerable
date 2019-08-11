@@ -6,7 +6,7 @@ A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION T
 
 ### Vulnerable Web Applications
 - [BadStore](http://www.badstore.net/)
-- [BodgeIt Store](http://code.google.com/p/bodgeit/0
+- [BodgeIt Store](http://code.google.com/p/bodgeit/)
 - [Butterfly Security Project](http://thebutterflytmp.sourceforge.net/)
 - [bWAPP 	](http://www.mmeit.be/bwapp/)
 - [bWAPP](http://sourceforge.net/projects/bwapp/files/bee-box/)
@@ -49,3 +49,9 @@ A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION T
 - [WebSecurity Dojo](http://www.mavensecurity.com/web_security_dojo/)
 - [XVWA](https://github.com/s4n7h0/xvwa)
 - [Zap WAVE](http://code.google.com/p/zaproxy/downloads/detail?name=zap-wave-0.1.zip)
+
+### Sites for Downloading Older Versions of Various Software
+- [Exploit-DB 	](http://www.exploit-db.com/)
+- [Old Apps 	](http://www.oldapps.com/)
+- [Old Version 	](http://www.oldversion.com/)
+- [VirtualHacking Repo 	 ](sourceforge.net/projects/virtualhacking/files/apps%40realworld/)
