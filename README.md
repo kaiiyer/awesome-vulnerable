@@ -122,7 +122,7 @@ A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION T
 - [Damn Vulnerable iOS App (DVIA) 	](http://damnvulnerableiosapp.com/)
 - [ExploitMe Mobile Android Labs 	](http://securitycompass.github.io/AndroidLabs/)
 - [ExploitMe Mobile iPhone Labs 	](http://securitycompass.github.io/iPhoneLabs/)
-- [Hacme Bank Android 	](ttp://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx)
+- [Hacme Bank Android 	](https://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx)
 - [InsecureBank 	](http://www.paladion.net/downloadapp.html)
 - [NcN Wargame 	](http://noconname.org/evento/wargame/)
 - [OWASP iGoat 	](http://code.google.com/p/owasp-igoat/)
