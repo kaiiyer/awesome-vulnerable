@@ -117,15 +117,15 @@ A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION T
 - [XAMPP 	](https://www.apachefriends.org/index.html)
 
 ### Mobile Apps
-[Damn Vulnerable Android App (DVAA) 	](https://code.google.com/p/dvaa/)
-[Damn Vulnerable FirefoxOS Application (DVFA) 	](https://github.com/pwnetrationguru/dvfa/)
-[Damn Vulnerable iOS App (DVIA) 	](http://damnvulnerableiosapp.com/)
-[ExploitMe Mobile Android Labs 	](http://securitycompass.github.io/AndroidLabs/)
-[ExploitMe Mobile iPhone Labs 	](http://securitycompass.github.io/iPhoneLabs/)
-[Hacme Bank Android 	h](ttp://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx)
-[InsecureBank 	](http://www.paladion.net/downloadapp.html)
-[NcN Wargame 	](http://noconname.org/evento/wargame/)
-[OWASP iGoat 	](http://code.google.com/p/owasp-igoat/)
-[OWASP Goatdroid 	](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+- [Damn Vulnerable Android App (DVAA) 	](https://code.google.com/p/dvaa/)
+- [Damn Vulnerable FirefoxOS Application (DVFA) 	](https://github.com/pwnetrationguru/dvfa/)
+- [Damn Vulnerable iOS App (DVIA) 	](http://damnvulnerableiosapp.com/)
+- [ExploitMe Mobile Android Labs 	](http://securitycompass.github.io/AndroidLabs/)
+- [ExploitMe Mobile iPhone Labs 	](http://securitycompass.github.io/iPhoneLabs/)
+- [Hacme Bank Android 	](ttp://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx)
+- [InsecureBank 	](http://www.paladion.net/downloadapp.html)
+- [NcN Wargame 	](http://noconname.org/evento/wargame/)
+- [OWASP iGoat 	](http://code.google.com/p/owasp-igoat/)
+- [OWASP Goatdroid 	](https://github.com/jackMannino/OWASP-GoatDroid-Project)
 
-Contributions are always welcomed!
+Contributions are always welcome !
