@@ -131,6 +131,12 @@ A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION T
 - [OWASP iGoat 	](http://code.google.com/p/owasp-igoat/)
 - [OWASP Goatdroid 	](https://github.com/jackMannino/OWASP-GoatDroid-Project)
 
+### Operating Systems
+
+- [Kali Linux](https://www.kali.org)
+- [Black Arch](https://blackarch.org)
+- [Parrot Linux](https://parrotlinux.org/download.php)
+
 Contributions are always welcome !
 
 ## How to contribute to this project
