@@ -5,7 +5,7 @@
 A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB. This list aims to help starters as well as pros to test out and enhance their penetration skills.
 
 ### Vulnerable Web Applications
-- [BadStore](http://www.badstore.net/)
+- [BadStore](https://www.vulnhub.com/entry/badstore-123,41/)
 - [BodgeIt Store](http://code.google.com/p/bodgeit/)
 - [Butterfly Security Project](http://thebutterflytmp.sourceforge.net/)
 - [bWAPP 	](http://www.mmeit.be/bwapp/)
