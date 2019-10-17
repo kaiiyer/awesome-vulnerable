@@ -12,6 +12,7 @@ A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION T
 - [bWAPP](http://sourceforge.net/projects/bwapp/files/bee-box/)
 - [Commix 	](https://github.com/stasinopoulos/commix-testbed)
 - [CryptOMG 	](https://github.com/SpiderLabs/CryptOMG)
+- [Damn Vulnerable Cloud Application](https://github.com/m6a-UdS/dvca.git)
 - [Damn Vulnerable Node Application(DVNA)](https://github.com/quantumfoam/DVNA/)
 - [Damn Vulnerable Web App (DVWA) 	](http://www.dvwa.co.uk/)
 - [Damn Vulnerable Web Services (DVWS) 	](http://dvws.professionallyevil.com/)
