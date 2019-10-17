@@ -10,6 +10,7 @@ A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION T
 - [Butterfly Security Project](http://thebutterflytmp.sourceforge.net/)
 - [bWAPP 	](http://www.mmeit.be/bwapp/)
 - [bWAPP](http://sourceforge.net/projects/bwapp/files/bee-box/)
+- [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat.git)
 - [Commix 	](https://github.com/stasinopoulos/commix-testbed)
 - [CryptOMG 	](https://github.com/SpiderLabs/CryptOMG)
 - [Damn Vulnerable Cloud Application](https://github.com/m6a-UdS/dvca.git)
