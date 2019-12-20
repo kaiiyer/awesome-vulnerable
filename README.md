@@ -133,8 +133,6 @@ A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION T
 - [OWASP iGoat 	](http://code.google.com/p/owasp-igoat/)
 - [OWASP Goatdroid 	](https://github.com/jackMannino/OWASP-GoatDroid-Project)
 
-Contributions are always welcome !
-
 ## How to contribute to this project
 
 ### Here are some of the ways to contribute to this project:
@@ -167,5 +165,5 @@ git push origin branch-name
     Wait for your PR review and merge approval!
     Star this repository if you had fun!
 
-Thanks a bunch for your contributions !!!
+Contributions are always welcome !
 Start Hacking !!
