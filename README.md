@@ -1,6 +1,6 @@
-# [Awesome Vulnerable](https://kaiiyer.github.io/awesome-vulnerable/)
+# Awesome Vulnerable [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<img src="https://octodex.github.com/images/grim-repo.jpg" alt="Octocat" width="210" height="225">
 
 A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB. This list aims to help starters as well as pros to test out and enhance their penetration skills.
 
