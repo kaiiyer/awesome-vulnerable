@@ -158,12 +158,13 @@ git checkout -b branch-name
     Commit and push
 
 git add .
+
 git commit -m 'Commit message'
+
 git push origin branch-name
 
     Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
     Wait for your PR review and merge approval!
     Star this repository if you had fun!
 
-Contributions are always welcome !
-Start Hacking !!
+Contributions are always appreciated
