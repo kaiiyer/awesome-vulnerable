@@ -2,9 +2,18 @@
 
 <img src="https://octodex.github.com/images/grim-repo.jpg" alt="Octocat" width="210" height="225">
 
-A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB. This list aims to help starters as well as pros to test out and enhance their penetration skills.
+*A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB. This list aims to help starters as well as pros to test out and enhance their penetration skills.*
 
-### Vulnerable Web Applications
+# Contents
+
+- [Vulnerable Web Applications](#Vulnerable-Web-Applications)
+- [Sites by Vendors of Security Testing Software](#Sites-by-Vendors-of-Security-Testing-Software)
+- [Sites for Improving Your Hacking Skills](Sites-for-Improving-Your-Hacking-Skills)
+- [Labs](#Labs)
+- [Mobile Apps](#Mobile-Apps)
+
+
+## Vulnerable Web Applications
 - [BadStore](https://www.vulnhub.com/entry/badstore-123,41/)
 - [BodgeIt Store](http://code.google.com/p/bodgeit/)
 - [Butterfly Security Project](http://thebutterflytmp.sourceforge.net/)
@@ -58,7 +67,8 @@ A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION T
 - [Old Version 	](http://www.oldversion.com/)
 - [VirtualHacking Repo 	 ](sourceforge.net/projects/virtualhacking/files/apps%40realworld/)
 - [All Version](http://www.PortableApps.com/)
-### Sites by Vendors of Security Testing Software
+
+## Sites by Vendors of Security Testing Software
 - [Acunetix acuforum 	](http://testasp.vulnweb.com/)
 - [Acunetix acublog 	](http://testaspnet.vulnweb.com/)
 - [Acunetix acuart 	](http://testphp.vulnweb.com/)
@@ -69,7 +79,7 @@ A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION T
 - [Mavituna testsparker 	](http://php.testsparker.com)
 - [NTOSpider Test Site 	](http://www.webscantest.com/)
 
-### Sites for Improving Your Hacking Skills
+## Sites for Improving Your Hacking Skills
 - [Embedded Security CTF 	](https://microcorruption.com)
 - [EnigmaGroup 	](http://www.enigmagroup.org/)
 - [Escape 	](http://escape.alf.nu/)
@@ -104,7 +114,7 @@ A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION T
 - [XSS Game 	](https://xss-game.appspot.com/)
 - [XSS: ProgPHP 	](http://xss.progphp.com/)
 
-### Lab
+### Labs
 - [binjitsu 	](https://github.com/binjitsu/binjitsu)
 - [CTFd 	](https://github.com/isislab/CTFd)
 - [Mellivora 	](https://github.com/Nakiami/mellivora)
@@ -121,7 +131,7 @@ A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION T
 - [OCCP 	](https://opencyberchallenge.net/)
 - [XAMPP 	](https://www.apachefriends.org/index.html)
 
-### Mobile Apps
+## Mobile Apps
 - [Damn Vulnerable Android App (DVAA) 	](https://code.google.com/p/dvaa/)
 - [Damn Vulnerable FirefoxOS Application (DVFA) 	](https://github.com/pwnetrationguru/dvfa/)
 - [Damn Vulnerable iOS App (DVIA) 	](http://damnvulnerableiosapp.com/)
@@ -133,7 +143,6 @@ A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION T
 - [OWASP iGoat 	](http://code.google.com/p/owasp-igoat/)
 - [OWASP Goatdroid 	](https://github.com/jackMannino/OWASP-GoatDroid-Project)
 
-## How to contribute to this project
 
 ### Here are some of the ways to contribute to this project:
 
