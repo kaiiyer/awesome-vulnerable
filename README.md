@@ -120,15 +120,14 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [Metasploitable2  ](http://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
 - [NightShade 	](https://github.com/UnrealAkama/NightShade)
 - [MCIR 	](https://github.com/SpiderLabs/MCIR)
-- [Docker 	](https://www.docker.com/)
-- [Vagrant 	](https://www.vagrantup.com/)
+- [Vagrant 	](https://www.vagrantup.com/) - Development Environments Made Easy
 - [NETinVM 	](http://informatica.uv.es/~carlos/docencia/netinvm/)
 - [SmartOS 	](https://smartos.org/)
 - [SmartDataCenter 	](https://github.com/joyent/sdc)
 - [vSphere Hypervisor 	](https://www.vmware.com/products/vsphere-hypervisor/)
-- [GNS3 	](http://sourceforge.net/projects/gns-3/)
-- [OCCP 	](https://opencyberchallenge.net/)
-- [XAMPP 	](https://www.apachefriends.org/index.html)
+- [GNS3 	](http://sourceforge.net/projects/gns-3/) - Build, Design and Test your network in a risk-free virtual environment and access the largest networking community to help.
+- [OCCP 	](https://opencyberchallenge.net/) - A free, configurable, open-source virtualization platform for cyber security educators and challenge event coordinators.
+- [XAMPP 	](https://www.apachefriends.org/index.html) - XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. The XAMPP open source package has been set up to be incredibly easy to install and to use.
 
 ## Mobile Apps
 - [Damn Vulnerable Android App (DVAA) 	](https://code.google.com/p/dvaa/)
