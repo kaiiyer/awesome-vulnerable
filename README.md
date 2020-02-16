@@ -8,33 +8,31 @@
 
 - [Vulnerable Web Applications](#Vulnerable-Web-Applications)
 - [Sites by Vendors of Security Testing Software](#Sites-by-Vendors-of-Security-Testing-Software)
-- [Sites for Downloading Older Versions of Various Software](### Sites-for-Downloading-Older-Versions-of-Various-Software)
+- [Sites for Downloading Older Versions of Various Software](Sites-for-Downloading-Older-Versions-of-Various-Software)
 - [Sites for Improving Your Hacking Skills](Sites-for-Improving-Your-Hacking-Skills)
 - [Labs](#Labs)
 - [Mobile Apps](#Mobile-Apps)
 
 
 ## Vulnerable Web Applications
-- [BadStore](https://www.vulnhub.com/entry/badstore-123,41/)
-- [BodgeIt Store](http://code.google.com/p/bodgeit/)
-- [Butterfly Security Project](http://thebutterflytmp.sourceforge.net/)
-- [bWAPP 	](http://www.mmeit.be/bwapp/)
-- [bWAPP](http://sourceforge.net/projects/bwapp/files/bee-box/)
-- [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat.git)
-- [Commix 	](https://github.com/stasinopoulos/commix-testbed)
-- [CryptOMG 	](https://github.com/SpiderLabs/CryptOMG)
-- [Damn Vulnerable Cloud Application](https://github.com/m6a-UdS/dvca.git)
-- [Damn Vulnerable Node Application(DVNA)](https://github.com/quantumfoam/DVNA/)
-- [Damn Vulnerable Web App (DVWA) 	](http://www.dvwa.co.uk/)
-- [Damn Vulnerable Web Services (DVWS) 	](http://dvws.professionallyevil.com/)
-- [Drunk Admin Web Hacking Challenge 	](https://bechtsoudis.com/work-stuff/challenges/drunk-admin-web-hacking-challenge/)
-- [Exploit KB Vulnerable Web App 	](http://exploit.co.il/projects/vuln-web-app/)
-- [Foundstone Hackme Bank 	](http://www.mcafee.com/us/downloads/free-tools/hacme-bank.aspx)
-- [Foundstone Hackme Books 	](http://www.mcafee.com/us/downloads/free-tools/hacmebooks.aspx)
-- [Foundstone Hackme Casino 	](http://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx)
-- [Foundstone Hackme Shipping 	](http://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx)
-- [Foundstone Hackme Travel 	](http://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx)
-- [GameOver 	](http://sourceforge.net/projects/null-gameover/)
+- [BadStore](https://www.vulnhub.com/entry/badstore-123,41/) - Badstore.net is dedicated to helping you understand how hackers prey on Web application vulnerabilities, and to showing you how to reduce your exposure. Our Badstore demonstration software is designed to show you common hacking techniques.
+- [BodgeIt Store](http://code.google.com/p/bodgeit/) - The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.
+- [Butterfly Security Project](http://thebutterflytmp.sourceforge.net/) - The ButterFly project is an educational environment intended to give an insight into common web application and PHP vulnerabilities. The environment also includes examples demonstrating how such vulnerabilities are mitigated.
+- [bWAPP](http://sourceforge.net/projects/bwapp/files/bee-box/) - bee-box is a custom Linux VM pre-installed with bWAPP. 
+- [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat.git) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool 
+- [Commix 	](https://github.com/stasinopoulos/commix-testbed) - A collection of web pages, vulnerable to command injection flaws. 
+- [CryptOMG 	](https://github.com/SpiderLabs/CryptOMG) - CryptOMG is a configurable CTF style test bed that highlights common flaws in cryptographic implementations.
+- [Damn Vulnerable Cloud Application](https://github.com/m6a-UdS/dvca.git) - Damn Vulnerable Cloud Application 
+- [Damn Vulnerable Node Application(DVNA)](https://github.com/appsecco/dvna) - Damn Vulnerable NodeJS Application 
+- [Damn Vulnerable Web App (DVWA) 	](http://www.dvwa.co.uk/) - Damn Vulnerablbe Web Application
+- [Damn Vulnerable Web Services (DVWS) 	](https://github.com/snoopysecurity/dvws) - 
+Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real world web service vulnerabilities.
+- [Foundstone Hackme Bank 	](https://www.mcafee.com/us/downloads/free-tools/hacme-bank.aspx) - Free McAfee tools to aid in your security protection.
+- [Foundstone Hackme Books 	](https://www.mcafee.com/us/downloads/free-tools/hacmebooks.aspx) - Free McAfee tools to aid in your security protection.
+- [Foundstone Hackme Casino 	](httsp://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx)- Free McAfee tools to aid in your security protection.
+- [Foundstone Hackme Shipping 	](https://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx) - Free McAfee tools to aid in your security protection.
+- [Foundstone Hackme Travel 	](https://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx) - Free McAfee tools to aid in your security protection.
+- [GameOver 	](https://sourceforge.net/projects/null-gameover/) - Project GameOver was started with the objective of training and educating newbies about the basics of web security and educate them about the common web attacks and help them understand how they work. 
 - [hackxor 	](http://hackxor.sourceforge.net/cgi-bin/index.pl)
 - [Hackazon 	](https://github.com/rapid7/hackazon)
 - [LAMPSecurity](http://sourceforge.net/projects/lampsecurity/)
