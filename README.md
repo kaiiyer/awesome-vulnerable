@@ -34,8 +34,8 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [Foundstone Hackme Shipping 	](https://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx) - Free McAfee tools to aid in your security protection.
 - [Foundstone Hackme Travel 	](https://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx) - Free McAfee tools to aid in your security protection.
 - [GameOver 	](https://sourceforge.net/projects/null-gameover/) - Project GameOver was started with the objective of training and educating newbies about the basics of web security and educate them about the common web attacks and help them understand how they work. 
-- [hackxor 	](http://hackxor.sourceforge.net/cgi-bin/index.pl)
-- [Hackazon 	](https://github.com/rapid7/hackazon)
+- [hackxor 	](https://hackxor.sourceforge.net/cgi-bin/index.pl) - Hackxor is a realistic web application hacking game, designed to help players of all abilities develop their skills. All the missions are based on real vulnerabilities I've personally found while doing pentests, bug bounty hunting, and research.
+- [Hackazon 	](https://github.com/rapid7/hackazon) -  A modern vulnerable web app 
 - [LAMPSecurity](http://sourceforge.net/projects/lampsecurity/)
 - [Moth](http://www.bonsai-sec.com/en/research/moth.php)
 - [NOWASP / Mutillidae 2](http://sourceforge.net/projects/mutillidae/)
@@ -115,17 +115,16 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [XSS: ProgPHP 	](http://xss.progphp.com/)
 
 ### Labs
-- [binjitsu 	](https://github.com/binjitsu/binjitsu)
-- [CTFd 	](https://github.com/isislab/CTFd)
-- [Mellivora 	](https://github.com/Nakiami/mellivora)
-- [Metasploitable2  ](http://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
-- [NightShade 	](https://github.com/UnrealAkama/NightShade)
-- [MCIR 	](https://github.com/SpiderLabs/MCIR)
+- [CTFd 	](https://github.com/isislab/CTFd) - CTFs as you need them
+- [Mellivora 	](https://github.com/Nakiami/mellivora) - Mellivora is a CTF engine written in PHP 
+- [Metasploitable2  ](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) - Metasploitable is an intentionally vulnerable Linux virtual machine 
+- [NightShade 	](https://github.com/UnrealAkama/NightShade) - A simple capture the flag framework. 
+- [MCIR 	](https://github.com/SpiderLabs/MCIR) - The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds. 
 - [Vagrant 	](https://www.vagrantup.com/) - Development Environments Made Easy
-- [NETinVM 	](http://informatica.uv.es/~carlos/docencia/netinvm/)
-- [SmartOS 	](https://smartos.org/)
-- [SmartDataCenter 	](https://github.com/joyent/sdc)
-- [vSphere Hypervisor 	](https://www.vmware.com/products/vsphere-hypervisor/)
+- [NETinVM 	](https://informatica.uv.es/~carlos/docencia/netinvm/) - A tool for teaching and learning about systems, networks and security
+- [SmartOS 	](https://smartos.org/) - Converged Container and Virtual Machine Hypervisor
+- [SmartDataCenter 	](https://github.com/joyent/sdc) - Joyent Triton DataCenter: a cloud management platform with first class support for containers. 
+- [vSphere Hypervisor 	](https://www.vmware.com/products/vsphere-hypervisor/) - vSphere Hypervisor is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure. 
 - [GNS3 	](http://sourceforge.net/projects/gns-3/) - Build, Design and Test your network in a risk-free virtual environment and access the largest networking community to help.
 - [OCCP 	](https://opencyberchallenge.net/) - A free, configurable, open-source virtualization platform for cyber security educators and challenge event coordinators.
 - [XAMPP 	](https://www.apachefriends.org/index.html) - XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. The XAMPP open source package has been set up to be incredibly easy to install and to use.
