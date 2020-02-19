@@ -47,25 +47,24 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [PentesterLab 	](https://pentesterlab.com/) - We make learning web hacking easier!
 - [SecuriBench 	](https://suif.stanford.edu/~livshits/securibench/) - Stanford SecuriBench is a set of open source real-life programs to be used as a testing ground for static and dynamic security tools. Release .91a focuses on Web-based applications written in Java. 
 - [SentinelTestbed 	](https://github.com/dobin/SentinelTestbed) - Vulnerable web site. Used to test sentinel features.
-- [SocketToMe](http://digi.ninja/projects/sockettome.php)
-- [sqli-labs](https://github.com/Audi-1/sqli-labs)
-- [MCIR (Magical Code Injection Rainbow)](https://github.com/SpiderLabs/MCIR)
-- [sqlilabs](https://github.com/himadriganguly/sqlilabs)
-- [VulnApp](http://www.nth-dimension.org.uk/blog.php?id=88)
-- [PuzzleMall](http://code.google.com/p/puzzlemall/)
-- [WackoPicko](https://github.com/adamdoupe/WackoPicko)
-- [WAED](http://www.waed.info)
-- [WebGoat.NET](https://github.com/jerryhoff/WebGoat.NET/)
-- [WebSecurity Dojo](http://www.mavensecurity.com/web_security_dojo/)
-- [XVWA](https://github.com/s4n7h0/xvwa)
-- [Zap WAVE](http://code.google.com/p/zaproxy/downloads/detail?name=zap-wave-0.1.zip)
+- [SocketToMe](http://digi.ninja/projects/sockettome.php) - It combines chat, a simple number guessing game and a few other hidden features. 
+- [sqli-labs](https://github.com/Audi-1/sqli-labs) - SQLI labs to test error based, Blind boolean based, Time based. 
+- [MCIR (Magical Code Injection Rainbow)](https://github.com/SpiderLabs/MCIR) - The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds. 
+- [sqlilabs](https://github.com/himadriganguly/sqlilabs) - Lab set-up for learning SQL Injection Techniques 
+- [VulnApp](https://www.nth-dimension.org.uk/blog.php?id=88) - ASP.net application implementing some of the most common applications we come across on our penetration testing engagements
+- [PuzzleMall](https://code.google.com/p/puzzlemall/) - A vulnerable web application for practicing session puzzling
+- [WackoPicko](https://github.com/adamdoupe/WackoPicko) -  WackoPicko is a vulnerable web application used to test web application vulnerability scanners. 
+- [WebGoat.NET](https://github.com/jerryhoff/WebGoat.NET/) - This web application is a learning platform that attempts to teach about common web security flaws. It contains generic security flaws that apply to most web applications
+- [WebSecurity Dojo](https://www.mavensecurity.com/web_security_dojo/) - A free open-source self-contained training environment for Web Application Security penetration testing. Tools + Targets = Dojo
+- [XVWA](https://github.com/s4n7h0/xvwa) - XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.
+- [Zap WAVE](https://code.google.com/p/zaproxy/downloads/detail?name=zap-wave-0.1.zip) - An easy to use integrated penetration testing tool for finding vulnerabilities in web applications
 
 ### Sites for Downloading Older Versions of Various Software
-- [Exploit-DB 	](http://www.exploit-db.com/)
-- [Old Apps 	](http://www.oldapps.com/)
-- [Old Version 	](http://www.oldversion.com/)
-- [VirtualHacking Repo 	 ](sourceforge.net/projects/virtualhacking/files/apps%40realworld/)
-- [All Version](http://www.PortableApps.com/)
+- [Exploit-DB 	](http://www.exploit-db.com/) - The Exploit Database is maintained by Offensive Security, an information security training company that provides various Information Security Certifications as well as high end penetration testing services.
+- [Old Apps 	](http://www.oldapps.com/) - Provide our users with a wide assortment of current versions of familiar software, and their predecessors for free.
+- [Old Version 	](http://www.oldversion.com/) - Pick a software title... to downgrade to the version you love!
+- [VirtualHacking Repo 	 ](sourceforge.net/projects/virtualhacking/files/apps%40realworld/) - Virtual Hacking Lab
+- [All Version](http://www.PortableApps.com/) - PortableApps is the world's most popular portable software solution allowing you to take your favorite software with you.
 
 ## Sites by Vendors of Security Testing Software
 - [Acunetix acuforum 	](http://testasp.vulnweb.com/)
