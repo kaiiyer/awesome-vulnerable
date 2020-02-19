@@ -36,18 +36,17 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [GameOver 	](https://sourceforge.net/projects/null-gameover/) - Project GameOver was started with the objective of training and educating newbies about the basics of web security and educate them about the common web attacks and help them understand how they work. 
 - [hackxor 	](https://hackxor.sourceforge.net/cgi-bin/index.pl) - Hackxor is a realistic web application hacking game, designed to help players of all abilities develop their skills. All the missions are based on real vulnerabilities I've personally found while doing pentests, bug bounty hunting, and research.
 - [Hackazon 	](https://github.com/rapid7/hackazon) -  A modern vulnerable web app 
-- [LAMPSecurity](http://sourceforge.net/projects/lampsecurity/)
-- [Moth](http://www.bonsai-sec.com/en/research/moth.php)
-- [NOWASP / Mutillidae 2](http://sourceforge.net/projects/mutillidae/)
-- [OWASP BWA 	](http://code.google.com/p/owaspbwa/)
-- [OWASP Hackademic 	](http://hackademic1.teilar.gr/)
-- [OWASP SiteGenerator 	](https://www.owasp.org/index.php/Owasp_SiteGenerator)
-- [OWASP Bricks 	](http://sourceforge.net/projects/owaspbricks/)
-- [OWASP Security Shepherd 	](https://www.owasp.org/index.php/OWASP_Security_Shepherd)
-- [PentesterLab 	](https://pentesterlab.com/)
-- [PHDays iBank CTF 	](http://blog.phdays.com/2012/05/once-again-about-remote-banking.html)
-- [SecuriBench 	](http://suif.stanford.edu/~livshits/securibench/)
-- [SentinelTestbed 	](https://github.com/dobin/SentinelTestbed)
+- [LAMPSecurity](http://sourceforge.net/projects/lampsecurity/) - LAMPSecurity training is designed to be a series of vulnerable virtual machine images along with complementary documentation designed to teach linux,apache,php,mysql security.
+- [OWASP Mantra](https://sourceforge.net/projects/getmantra/) - Free and Open Source Browser based Security Framework, is a collection of free and open source tools integrated into a web browser, which can become handy for penetration testers, web application developers, security professionals etc.
+- [NOWASP / Mutillidae 2](https://github.com/webpwnized/mutillidae) - OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiast. 
+- [OWASP BWA 	](http://code.google.com/p/owaspbwa/) - A collection of vulnerable web applications that is distributed on a Virtual Machine in VMware format compatible with their no-cost VMware Player and VMware vSphere Hypervisor (ESXi) products (along with their older and commercial products).
+- [OWASP Hackademic 	](https://github.com/Hackademic/hackademic/) - Project helps you test your knowledge on web application security. You can use it to actually attack web applications in a realistic but also controllable and safe environment.
+- [OWASP SiteGenerator 	](https://www.owasp.org/index.php/Owasp_SiteGenerator) - OWASP SiteGenerator allows the creating of dynamic websites based on XML files and predefined vulnerabilities (some simple, some complex) covering .Net languages and web development architectures (for example, navigation: Html, Javascript, Flash, Java, etc). 
+- [OWASP Bricks 	](https://sourceforge.net/projects/owaspbricks/) -  Web application security learning platform built on PHP and MySQL 
+- [OWASP Security Shepherd 	](https://www.owasp.org/index.php/OWASP_Security_Shepherd) - OWASP Security Shepherd is a web and mobile application security training platform. Security Shepherd has been designed to foster and improve security awareness among a varied skill-set demographic
+- [PentesterLab 	](https://pentesterlab.com/) - We make learning web hacking easier!
+- [SecuriBench 	](https://suif.stanford.edu/~livshits/securibench/) - Stanford SecuriBench is a set of open source real-life programs to be used as a testing ground for static and dynamic security tools. Release .91a focuses on Web-based applications written in Java. 
+- [SentinelTestbed 	](https://github.com/dobin/SentinelTestbed) - Vulnerable web site. Used to test sentinel features.
 - [SocketToMe](http://digi.ninja/projects/sockettome.php)
 - [sqli-labs](https://github.com/Audi-1/sqli-labs)
 - [MCIR (Magical Code Injection Rainbow)](https://github.com/SpiderLabs/MCIR)
