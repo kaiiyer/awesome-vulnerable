@@ -128,16 +128,16 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [XAMPP 	](https://www.apachefriends.org/index.html) - XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. The XAMPP open source package has been set up to be incredibly easy to install and to use.
 
 ## Mobile Apps
-- [Damn Vulnerable Android App (DVAA) 	](https://code.google.com/p/dvaa/)
-- [Damn Vulnerable FirefoxOS Application (DVFA) 	](https://github.com/pwnetrationguru/dvfa/)
-- [Damn Vulnerable iOS App (DVIA) 	](http://damnvulnerableiosapp.com/)
-- [ExploitMe Mobile Android Labs 	](http://securitycompass.github.io/AndroidLabs/)
-- [ExploitMe Mobile iPhone Labs 	](http://securitycompass.github.io/iPhoneLabs/)
-- [Hacme Bank Android 	](https://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx)
-- [InsecureBank 	](http://www.paladion.net/downloadapp.html)
-- [NcN Wargame 	](http://noconname.org/evento/wargame/)
-- [OWASP iGoat 	](http://code.google.com/p/owasp-igoat/)
-- [OWASP Goatdroid 	](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+- [Damn Vulnerable Android App (DVAA) 	](https://code.google.com/p/dvaa/) - Damn Vulnerable Android App (DVAA) is an Android application which contains intentional vulnerabilities
+- [Damn Vulnerable FirefoxOS Application (DVFA) 	](https://github.com/arroway/dvfa) - Damn Vulnerable FirefoxOS Application - a purposefully vulnerable application for demontrastion
+- [Damn Vulnerable iOS App (DVIA) 	](damnvulnerableiosapp.com/) - Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable
+- [ExploitMe Mobile Android Labs 	](https://securitycompass.github.io/AndroidLabs/) - The insecure Android app for your hacking pleasure
+- [ExploitMe Mobile iPhone Labs 	](https://securitycompass.github.io/iPhoneLabs/) - A defective iPhone App for your hacking pleasure
+- [Hacme Bank Android 	](https://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx) - Free McAfee tools to aid in your security protection.
+- [InsecureBank 	](https://www.paladion.net/downloadapp.html) - Cyber Tales by Paladion
+- [NcN Wargame 	](https://github.com/NocONName/Wargame_NcN2012) - No cON Name 2012 Challenges
+- [OWASP iGoat 	](https://code.google.com/p/owasp-igoat/) - The OWASP iGoat project is a security learning tool for iOS developers to learn about security weaknesses in iOS -- by breaking things as well as fixing them.
+- [OWASP Goatdroid 	](https://github.com/jackMannino/OWASP-GoatDroid-Project) - OWASP GoatDroid is a fully functional and self-contained training environment for educating developers and testers on Android security
 
 
 ### Here are some of the ways to contribute to this project:
