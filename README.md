@@ -104,13 +104,12 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [Security Treasure Hunt 	](http://www.securitytreasurehunt.com/)
 - [Smash The Stack 	](http://www.smashthestack.org/)
 - [SQLZoo 	](http://sqlzoo.net/hack/)
-- [TheBlackSheep and Erik 	](http://www.bright-shadows.net/)
-- [ThisIsLegal 	](http://thisislegal.com/)
-- [Try2Hack 	](http://www.try2hack.nl/)
-- [WabLab 	](http://www.wablab.com/hackme)
-- [XSS: Can You XSS This? 	](http://canyouxssthis.com/HTMLSanitizer/)
-- [XSS Game 	](https://xss-game.appspot.com/)
-- [XSS: ProgPHP 	](http://xss.progphp.com/)
+- [TheBlackSheep and Erik 	](http://www.bright-shadows.net/) - Offers you hundreds of challenges in the fields of programming, JavaScript, PHP, Java, steganography, cryptography and others
+- [ThisIsLegal 	](http://thisislegal.com/) - A hacker wargames site with much more such as forums and tutorials.
+- [Try2Hack 	](http://www.try2hack.nl/) - This site provides several security-oriented challenges for your entertainment. It is actually one of the oldest challenge sites still around
+- [XSS: Can You XSS This? 	](http://canyouxssthis.com/HTMLSanitizer/) - Use HTMLSanitizer to protect your Web Apps
+- [XSS Game 	](https://xss-game.appspot.com/) - Learn to find and exploit XSS bugs
+- [XSS: ProgPHP 	](http://xss.progphp.com/) - Next-Gen Domain Registration. Progphp.com is coming soon !
 
 ### Labs
 - [CTFd 	](https://github.com/isislab/CTFd) - CTFs as you need them
