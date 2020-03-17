@@ -83,8 +83,8 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [Escape 	](http://escape.alf.nu/)
 - [Google Gruyere 	](http://google-gruyere.appspot.com/)
 - [Gh0st Lab 	](http://www.gh0st.net/)
-####  [Hack The Box     ](https://www.hackthebox.eu)
-####  [TryHackMe](https://tryhackme.com/)
+- <b>[Hack The Box](https://www.hackthebox.eu)<b> - An online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field
+- <b>[TryHackMe](https://tryhackme.com/)<b> - Cyber Security training made easy. A comfortable experience to learn by designing prebuilt courses which include virtual machines (VM) hosted in the cloud ready to be deployed
 - [Hack This Site 	](http://www.hackthissite.org/)
 - [HackThis 	](http://www.hackthis.co.uk/)
 - [HackQuest 	](http://www.hackquest.com/)
