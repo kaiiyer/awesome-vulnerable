@@ -97,7 +97,7 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [Hax.Tor 	](http://hax.tor.hu/)
 - [Metasploit Unleashed     ](https://www.offensive-security.com/metasploit-unleashed/)
 - [OverTheWire 	](http://www.overthewire.org/wargames/)
-- [PentestIT 	](http://www.pentestit.ru/en/)
+- [PentestIT 	](https://lab.pentestit.ru/) - Penetration testing laboratories "Test lab" emulate an IT infrastructure of real companies and are created for a legal pen testing and improving penetration testing skills.
 - [CSC Play on Demand 	](https://pod.cybersecuritychallenge.org.uk/)
 - [pwn0 	](https://pwn0.com/home.php)
 - [RootContest 	](http://rootcontest.com/)
