@@ -87,24 +87,21 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - <b>[TryHackMe](https://tryhackme.com/)</b> - Cyber Security training made easy. A comfortable experience to learn by designing prebuilt courses which include virtual machines (VM) hosted in the cloud ready to be deployed
 - [Hack This Site 	](http://www.hackthissite.org/) - Hack This Site is a free, safe and legal training ground for hackers to test and expand their hacking skills
 - [HackThis 	](http://www.hackthis.co.uk/) - Defend the Web is an Interactive Cyber Security Platform
-- [HackQuest 	](http://www.hackquest.com/)
-- [Hack.me 	](https://hack.me)
-- [Hacking-Lab 	](https://www.hacking-lab.com)
-- [Hacker Challenge 	](http://www.dareyourmind.net/)
-- [Hacker Test 	](http://www.hackertest.net/)
-- [hACME Game 	](http://www.hacmegame.org/)
-- [Halls Of Valhalla 	](http://halls-of-valhalla.org/beta/challenges)
+- [HackQuest 	](http://www.hackquest.com/) - Anonymous Webhosting, Virtual Servers, Secure Email
+- [Hack.me 	](https://hack.me) - Hacking-Lab is a service by Security Competence GmbH, a Swiss subsidiary of Compass Security AG.
+Compass Security is a well renowned European company specializing in penetration testing, incident response, digital forensics, and security trainings
+- [Hacking-Lab 	](https://www.hacking-lab.com) - Hack.me is a FREE, community based project powered by eLearnSecurity. The community can build, host and share vulnerable web application code for educational and research purposes
+- [Hacker Test 	](http://www.hackertest.net/) - HackerTest.net is your own online hacker simulation. This new real-life imitation will help you advance your security knowledge of JavaScript, PHP, HTML and graphic thinking
+- [Halls Of Valhalla 	](http://halls-of-valhalla.org/beta/challenges) - Valhalla is a place for sharing knowledge and ideas. Users can submit code, as well as science, technology, and engineering-oriented news and articles
 - [Hax.Tor 	](http://hax.tor.hu/)
-- [Metasploit Unleashed     ](https://www.offensive-security.com/metasploit-unleashed/)
-- [OverTheWire 	](http://www.overthewire.org/wargames/)
+- [Metasploit Unleashed     ](https://www.offensive-security.com/metasploit-unleashed/) - The Metasploit Unleashed (MSFU) course is provided free of charge by Offensive Security in order to raise awareness for underprivileged children in East Africa.
+- [OverTheWire 	](http://www.overthewire.org/wargames/) - The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games
 - [PentestIT 	](https://lab.pentestit.ru/) - Penetration testing laboratories "Test lab" emulate an IT infrastructure of real companies and are created for a legal pen testing and improving penetration testing skills.
-- [CSC Play on Demand 	](https://pod.cybersecuritychallenge.org.uk/)
-- [pwn0 	](https://pwn0.com/home.php)
-- [RootContest 	](http://rootcontest.com/)
-- [Root Me 	](http://www.root-me.org/?lang=en)
-- [Security Treasure Hunt 	](http://www.securitytreasurehunt.com/)
-- [Smash The Stack 	](http://www.smashthestack.org/)
-- [SQLZoo 	](http://sqlzoo.net/hack/)
+- <b>[CSC Play on Demand 	](https://pod.cybersecuritychallenge.org.uk/)</b> - The aim of this challenge is to identify the means by which an insider may accidentally or maliciously leak organisational secrets via seemingly innocent files.
+- [Root Me 	](http://www.root-me.org/?lang=en) - The fast, easy, and affordable way to train your hacking skills
+- [Security Treasure Hunt 	](http://www.securitytreasurehunt.com/) - A new Packet Capture-based Web Vulnerability Analysis challenge is available through April 30th, 2013, sponsored by Cyber Aces
+- [Smash The Stack 	](http://www.smashthestack.org/) - Wargaming Network
+- [SQLZoo 	](http://sqlzoo.net/hack/) - Exploiting an SQL Inject attack involves solving a puzzle that is a cross between Hangman and 20 Questions. It needs a little understanding of SQL and a great deal of cunning
 - [TheBlackSheep and Erik 	](http://www.bright-shadows.net/) - Offers you hundreds of challenges in the fields of programming, JavaScript, PHP, Java, steganography, cryptography and others
 - [ThisIsLegal 	](http://thisislegal.com/) - A hacker wargames site with much more such as forums and tutorials.
 - [Try2Hack 	](http://www.try2hack.nl/) - This site provides several security-oriented challenges for your entertainment. It is actually one of the oldest challenge sites still around
