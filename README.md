@@ -78,15 +78,15 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [NTOSpider Test Site 	](http://www.webscantest.com/) - This site is setup to test automated Web Application scanners like AppSpider
 
 ## Sites for Improving Your Hacking Skills
-- [Embedded Security CTF 	](https://microcorruption.com)
-- [EnigmaGroup 	](http://www.enigmagroup.org/)
-- [Escape 	](http://escape.alf.nu/)
-- [Google Gruyere 	](http://google-gruyere.appspot.com/)
-- [Gh0st Lab 	](http://www.gh0st.net/)
+- [Embedded Security CTF 	](https://microcorruption.com) - Scattered throughout the world in locked warehouses are briefcases filled with Cy Yombinator bearer bonds that could be worth billions comma billions of dollars. You will help steal the briefcases
+- [EnigmaGroup 	](http://www.enigmagroup.org/) -  Enigma Group has been providing its members a legal and safe security resource where they can develop their pen-testing skills on various challenges provided by this site
+- [Escape 	](http://escape.alf.nu/) - The code generates HTML in an unsafe way. Prove it by calling alert(1)
+- [Google Gruyere 	](http://google-gruyere.appspot.com/) - This codelab shows how web application vulnerabilities can be exploited and how to defend against these attacks
+- [Gh0st Lab 	](http://www.gh0st.net/) - The original idea of this network was to create a security research network where like minded individuals could work together towards the common goal of knowledge
 - <b>[Hack The Box](https://www.hackthebox.eu)</b> - An online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field
 - <b>[TryHackMe](https://tryhackme.com/)</b> - Cyber Security training made easy. A comfortable experience to learn by designing prebuilt courses which include virtual machines (VM) hosted in the cloud ready to be deployed
-- [Hack This Site 	](http://www.hackthissite.org/)
-- [HackThis 	](http://www.hackthis.co.uk/)
+- [Hack This Site 	](http://www.hackthissite.org/) - Hack This Site is a free, safe and legal training ground for hackers to test and expand their hacking skills
+- [HackThis 	](http://www.hackthis.co.uk/) - Defend the Web is an Interactive Cyber Security Platform
 - [HackQuest 	](http://www.hackquest.com/)
 - [Hack.me 	](https://hack.me)
 - [Hacking-Lab 	](https://www.hacking-lab.com)
@@ -138,38 +138,5 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [NcN Wargame 	](https://github.com/NocONName/Wargame_NcN2012) - No cON Name 2012 Challenges
 - [OWASP iGoat 	](https://code.google.com/p/owasp-igoat/) - The OWASP iGoat project is a security learning tool for iOS developers to learn about security weaknesses in iOS -- by breaking things as well as fixing them.
 - [OWASP Goatdroid 	](https://github.com/jackMannino/OWASP-GoatDroid-Project) - OWASP GoatDroid is a fully functional and self-contained training environment for educating developers and testers on Android security
-
-
-### Here are some of the ways to contribute to this project:
-
-    
-    Add your name to the CONTRIBUTORS.md file
-    Add any new useful links to resources with respect to pentesting and vulnerable testintg environments
-
-Make a pull request and wait for it to be merged!
-
-## Getting started
-
-    Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
-    Clone your fork down to your local machine
-
-git clone https://github.com/your-username/awesome-vulnerable.git
-
-    Create a branch
-
-git checkout -b branch-name
-
-    Make your changes (choose from any task below)
-    Commit and push
-
-git add .
-
-git commit -m 'Commit message'
-
-git push origin branch-name
-
-    Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
-    Wait for your PR review and merge approval!
-    Star this repository if you had fun!
 
 Contributions are always appreciated
