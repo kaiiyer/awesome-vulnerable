@@ -130,6 +130,7 @@ Compass Security is a well renowned European company specializing in penetration
 - [GNS3 	](http://sourceforge.net/projects/gns-3/) - Build, Design and Test your network in a risk-free virtual environment and access the largest networking community to help.
 - [OCCP 	](https://opencyberchallenge.net/) - A free, configurable, open-source virtualization platform for cyber security educators and challenge event coordinators.
 - [XAMPP 	](https://www.apachefriends.org/index.html) - XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. The XAMPP open source package has been set up to be incredibly easy to install and to use.
+- [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) - The Kubernetes Goat designed to be intentionally vulnerable cluster environment to learn and practice Kubernetes security.
 
 ## Mobile Apps
 - [Damn Vulnerable Android App (DVAA) 	](https://code.google.com/p/dvaa/) - Damn Vulnerable Android App (DVAA) is an Android application which contains intentional vulnerabilities
