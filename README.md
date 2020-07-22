@@ -35,11 +35,11 @@
 - [Damn Vulnerable Web App (DVWA) 	](http://www.dvwa.co.uk/) - Damn Vulnerablbe Web Application
 - [Damn Vulnerable Web Services (DVWS) 	](https://github.com/snoopysecurity/dvws) - 
 Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real world web service vulnerabilities.
-- [Foundstone Hackme Bank 	](https://www.mcafee.com/us/downloads/free-tools/hacme-bank.aspx) - Free McAfee tools to aid in your security protection.
-- [Foundstone Hackme Books 	](https://www.mcafee.com/us/downloads/free-tools/hacmebooks.aspx) - Free McAfee tools to aid in your security protection.
-- [Foundstone Hackme Casino 	](httsp://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx)- Free McAfee tools to aid in your security protection.
-- [Foundstone Hackme Shipping 	](https://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx) - Free McAfee tools to aid in your security protection.
-- [Foundstone Hackme Travel 	](https://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx) - Free McAfee tools to aid in your security protection.
+- [Foundstone Hackme Bank ](https://www.mcafee.com/us/downloads/free-tools/hacme-bank.aspx) - Free McAfee tools to aid in your security protection.
+- [Foundstone Hackme Books ](https://www.mcafee.com/us/downloads/free-tools/hacmebooks.aspx) - Free McAfee tools to aid in your security protection.
+- [Foundstone Hackme Casino ](httsp://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx)- Free McAfee tools to aid in your security protection.
+- [Foundstone Hackme Shipping ](https://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx) - Free McAfee tools to aid in your security protection.
+- [Foundstone Hackme Travel ](https://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx) - Free McAfee tools to aid in your security protection.
 - [GameOver 	](https://sourceforge.net/projects/null-gameover/) - Project GameOver was started with the objective of training and educating newbies about the basics of web security and educate them about the common web attacks and help them understand how they work. 
 - [hackxor 	](https://hackxor.sourceforge.net/cgi-bin/index.pl) - Hackxor is a realistic web application hacking game, designed to help players of all abilities develop their skills. All the missions are based on real vulnerabilities I've personally found while doing pentests, bug bounty hunting, and research.
 - [Hackazon 	](https://github.com/rapid7/hackazon) -  A modern vulnerable web app 
@@ -77,7 +77,7 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [Acunetix acuforum 	](https://testasp.vulnweb.com/) - A forum deliberately vulnerable to SQL Injections, directory traversal, and other web-based attacks
 - [Acunetix acublog 	](https://testaspnet.vulnweb.com/) - A test site for Acunetix. It is vulnerable to SQL Injections, Cross-site Scripting (XSS), and more
 - [Acunetix acuart 	](https://testphp.vulnweb.com/) -This is an example PHP application, which is intentionally vulnerable to web attacks. It is intended to help you test Acunetix
-- [Cenzic crackmebank 	](http://crackme.cenzic.com) -  This is a test and demonstration site
+- [Cenzic crackmebank ](http://crackme.cenzic.com) -  This is a test and demonstration site
 - [HP freebank 	](http://zero.webappsecurity.com) - The Free Online Bank Web site is published by Micro Focus Fortify for the sole purpose of demonstrating the functionality and effectiveness of Micro Focus Fortify’s WebInspect products in detecting and reporting Web application vulnerabilities.
 - [IBM altoromutual 	](http://demo.testfire.net/) - The AltoroJ website is published by IBM Corporation for the sole purpose of demonstrating the effectiveness of IBM products in detecting web application vulnerabilities and website defects
 - [Mavituna testsparker 	](http://aspnet.testsparker.com) -  This is a test and demonstration site for Netsparker
@@ -88,7 +88,8 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [Embedded Security CTF 	](https://microcorruption.com) - Scattered throughout the world in locked warehouses are briefcases filled with Cy Yombinator bearer bonds that could be worth billions comma billions of dollars. You will help steal the briefcases
 - [EnigmaGroup 	](http://www.enigmagroup.org/) -  Enigma Group has been providing its members a legal and safe security resource where they can develop their pen-testing skills on various challenges provided by this site
 - [Escape 	](http://escape.alf.nu/) - The code generates HTML in an unsafe way. Prove it by calling alert(1)
-- [Google Gruyere 	](http://google-gruyere.appspot.com/) - This codelab shows how web application vulnerabilities can be exploited and how to defend against these attacks
+- [Google Gruyere ](http://google-gruyere.appspot.com/) - This codelab shows how web application vulnerabilities can be exploited and how to defend against these attacks
+- [Forensic Practical](http://www.forensickb.com/2008/01/forensic-practical.html) -  To hone your forensic skills and run malware found on the honeypots by installing it on clean computer systems and watch its behavior
 - [Gh0st Lab 	](http://www.gh0st.net/) - The original idea of this network was to create a security research network where like minded individuals could work together towards the common goal of knowledge
 - <b>[Hack The Box](https://www.hackthebox.eu)</b> - An online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field
 - <b>[TryHackMe](https://tryhackme.com/)</b> - Cyber Security training made easy. A comfortable experience to learn by designing prebuilt courses which include virtual machines (VM) hosted in the cloud ready to be deployed
@@ -133,15 +134,15 @@ Compass Security is a well renowned European company specializing in penetration
 - [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) - The Kubernetes Goat designed to be intentionally vulnerable cluster environment to learn and practice Kubernetes security.
 
 ## Mobile Apps
-- [Damn Vulnerable Android App (DVAA) 	](https://code.google.com/p/dvaa/) - Damn Vulnerable Android App (DVAA) is an Android application which contains intentional vulnerabilities
-- [Damn Vulnerable FirefoxOS Application (DVFA) 	](https://github.com/arroway/dvfa) - Damn Vulnerable FirefoxOS Application - a purposefully vulnerable application for demontrastion
-- [Damn Vulnerable iOS App (DVIA) 	](damnvulnerableiosapp.com/) - Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable
-- [ExploitMe Mobile Android Labs 	](https://securitycompass.github.io/AndroidLabs/) - The insecure Android app for your hacking pleasure
-- [ExploitMe Mobile iPhone Labs 	](https://securitycompass.github.io/iPhoneLabs/) - A defective iPhone App for your hacking pleasure
-- [Hacme Bank Android 	](https://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx) - Free McAfee tools to aid in your security protection.
-- [InsecureBank 	](https://www.paladion.net/downloadapp.html) - Cyber Tales by Paladion
-- [NcN Wargame 	](https://github.com/NocONName/Wargame_NcN2012) - No cON Name 2012 Challenges
-- [OWASP iGoat 	](https://code.google.com/p/owasp-igoat/) - The OWASP iGoat project is a security learning tool for iOS developers to learn about security weaknesses in iOS -- by breaking things as well as fixing them.
-- [OWASP Goatdroid 	](https://github.com/jackMannino/OWASP-GoatDroid-Project) - OWASP GoatDroid is a fully functional and self-contained training environment for educating developers and testers on Android security
+- [Damn Vulnerable Android App (DVAA) ](https://code.google.com/p/dvaa/) - Damn Vulnerable Android App (DVAA) is an Android application which contains intentional vulnerabilities
+- [Damn Vulnerable FirefoxOS Application (DVFA) ](https://github.com/arroway/dvfa) - Damn Vulnerable FirefoxOS Application - a purposefully vulnerable application for demontrastion
+- [Damn Vulnerable iOS App (DVIA) ](damnvulnerableiosapp.com/) - Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable
+- [ExploitMe Mobile Android Labs](https://securitycompass.github.io/AndroidLabs/) - The insecure Android app for your hacking pleasure
+- [ExploitMe Mobile iPhone Labs ](https://securitycompass.github.io/iPhoneLabs/) - A defective iPhone App for your hacking pleasure
+- [Hacme Bank Android ](https://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx) - Free McAfee tools to aid in your security protection.
+- [InsecureBank ](https://www.paladion.net/downloadapp.html) - Cyber Tales by Paladion
+- [NcN Wargame ](https://github.com/NocONName/Wargame_NcN2012) - No cON Name 2012 Challenges
+- [OWASP iGoat ](https://code.google.com/p/owasp-igoat/) - The OWASP iGoat project is a security learning tool for iOS developers to learn about security weaknesses in iOS -- by breaking things as well as fixing them.
+- [OWASP Goatdroid ](https://github.com/jackMannino/OWASP-GoatDroid-Project) - OWASP GoatDroid is a fully functional and self-contained training environment for educating developers and testers on Android security
 
 Contributions are always appreciated
