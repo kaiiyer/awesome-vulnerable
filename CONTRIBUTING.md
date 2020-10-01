@@ -14,13 +14,19 @@ Make your changes
  - Add any new useful links to resources with respect to pentesting and vulnerable testintg environments
  - Add your name to the CONTRIBUTORS.md file
 
-Commit and push
+Commit and push 
 
     git add .
 
+    //It is used to stage the changed file. 
+    
     git commit -m 'Commit message'
+    
+    //It is used to commit the file with a short message.
 
     git push origin branch-name
+    
+    //It is used to push the file into the local repository.
 
 Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
 
