@@ -126,7 +126,7 @@ Compass Security is a well renowned European company specializing in penetration
 - [MCIR 	](https://github.com/SpiderLabs/MCIR) - The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds. 
 - [Vagrant 	](https://www.vagrantup.com/) - Development Environments Made Easy
 - [NETinVM 	](https://informatica.uv.es/~carlos/docencia/netinvm/) - A tool for teaching and learning about systems, networks and security
-- [SmartOS 	](https://smartos.org/) - Converged Container and Virtual Machine Hypervisor
+- [SmartOS 	](https://smartos.org/) - SmartOS is a free and open-source SVR4 hypervisor based on the UNIX operating system that combines OpenSolaris technology with Linux's KVM virtualization.
 - [SmartDataCenter 	](https://github.com/joyent/sdc) - Joyent Triton DataCenter: a cloud management platform with first class support for containers. 
 - [vSphere Hypervisor 	](https://www.vmware.com/products/vsphere-hypervisor/) - vSphere Hypervisor is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure. 
 - [GNS3 	](http://sourceforge.net/projects/gns-3/) - Build, Design and Test your network in a risk-free virtual environment and access the largest networking community to help.
