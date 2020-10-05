@@ -133,8 +133,8 @@ Compass Security is a well renowned European company specializing in penetration
 - [OCCP 	](https://opencyberchallenge.net/) - A free, configurable, open-source virtualization platform for cyber security educators and challenge event coordinators.
 - [XAMPP 	](https://www.apachefriends.org/index.html) - XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. The XAMPP open source package has been set up to be incredibly easy to install and to use.
 - [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) - The Kubernetes Goat designed to be intentionally vulnerable cluster environment to learn and practice Kubernetes security.
-- [Offensive Security](https://www.offensive-security.com/labs/individual/) - Practice your pentesting skills in a standalone, private lab environment with the additions of PG Play and PG Practice to Offensive Security’s Proving Grounds training labs.
-
+- [Offensive Security](https://www.offensive-security.com/labs/individual/) - Practice your pentesting skills in a standalone, private lab --environment with the additions of PG Play and PG Practice to Offensive Security’s Proving Grounds training labs.
+- [Game of Hacks](http://www.gameofhacks.com/) - Alright, this one isn’t exactly a vulnerable web app – but it’s another engaging way of learning to spot application security vulnerabilities, so we thought we’d throw it in
 
 ## Mobile Apps
 - [Damn Vulnerable Android App (DVAA) ](https://code.google.com/p/dvaa/) - Damn Vulnerable Android App (DVAA) is an Android application which contains intentional vulnerabilities
