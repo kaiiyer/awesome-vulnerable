@@ -66,7 +66,7 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [WebSecurity Dojo](https://www.mavensecurity.com/web_security_dojo/) - A free open-source self-contained training environment for Web Application Security penetration testing. Tools + Targets = Dojo
 - [XVWA](https://github.com/s4n7h0/xvwa) - XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.
 - [Zap WAVE](https://code.google.com/p/zaproxy/downloads/detail?name=zap-wave-0.1.zip) - An easy to use integrated penetration testing tool for finding vulnerabilities in web applications
-- [Web-Security Academy](https://portswigger.net/web-security) - A free platform for learining and testing your Web Application security skills with practice lab and lerning materials by Portswigger.
+- [Web-Security Academy](https://portswigger.net/web-security) - A free platform for learining and testing your Web Application security skills with practice labs and learning materials by Portswigger.
 
 
 ### Sites for Downloading Older Versions of Various Software
