@@ -136,6 +136,7 @@ Compass Security is a well renowned European company specializing in penetration
 - [Offensive Security](https://www.offensive-security.com/labs/individual/) - Practice your pentesting skills in a standalone, private lab --environment with the additions of PG Play and PG Practice to Offensive Security’s Proving Grounds training labs.
 - [Game of Hacks](http://www.gameofhacks.com/) - Alright, this one isn’t exactly a vulnerable web app – but it’s another engaging way of learning to spot application security vulnerabilities, so we thought we’d throw it in
 - [Google Gruyere](https://google-gruyere.appspot.com/) - This ‘cheesy’ vulnerable site is full of holes and aimed for those just starting to learn application security. 
+- [Hellbound Hackers](https://www.hellboundhackers.org/) - Hellbound Hackers, the hands-on approach to computer security, offers a wide array of challenges with the aim to teach how to identify exploits and suggest the code to patch it
 
 ## Mobile Apps
 - [Damn Vulnerable Android App (DVAA) ](https://code.google.com/p/dvaa/) - Damn Vulnerable Android App (DVAA) is an Android application which contains intentional vulnerabilities
