@@ -116,6 +116,7 @@ Compass Security is a well renowned European company specializing in penetration
 - [TheBlackSheep and Erik 	](http://www.bright-shadows.net/) - Offers you hundreds of challenges in the fields of programming, JavaScript, PHP, Java, steganography, cryptography and others
 - [ThisIsLegal 	](http://thisislegal.com/) - A hacker wargames site with much more such as forums and tutorials.
 - [Try2Hack 	](http://www.try2hack.nl/) - This site provides several security-oriented challenges for your entertainment. It is actually one of the oldest challenge sites still around
+- [VulnHub	](https://vulnhub.com/) - A collection of vulnerable hosts and associated challenges to gain 'hands-on' experience in cyber security.
 - [XSS: Can You XSS This? 	](http://canyouxssthis.com/HTMLSanitizer/) - Use HTMLSanitizer to protect your Web Apps
 - [XSS Game 	](https://xss-game.appspot.com/) - Learn to find and exploit XSS bugs
 - [XSS: ProgPHP 	](http://xss.progphp.com/) - Next-Gen Domain Registration. Progphp.com is coming soon !
