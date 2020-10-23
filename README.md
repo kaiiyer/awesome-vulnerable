@@ -73,7 +73,7 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [Exploit-DB 	](http://www.exploit-db.com/) - The Exploit Database is maintained by Offensive Security, an information security training company that provides various Information Security Certifications as well as high end penetration testing services.
 - [Old Apps 	](http://www.oldapps.com/) - Provide our users with a wide assortment of current versions of familiar software, and their predecessors for free.
 - [Old Version 	](http://www.oldversion.com/) - Pick a software title... to downgrade to the version you love!
-- [VirtualHacking Repo 	 ](sourceforge.net/projects/virtualhacking/files/apps%40realworld/) - Virtual Hacking Lab
+- [VirtualHacking Repo 	 ](https://sourceforge.net/projects/virtualhacking/files/apps@realworld/) - Virtual Hacking Lab
 - [All Version](http://www.PortableApps.com/) - PortableApps is the world's most popular portable software solution allowing you to take your favorite software with you.
 
 ## Sites by Vendors of Security Testing Software
