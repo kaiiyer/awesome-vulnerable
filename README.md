@@ -67,7 +67,7 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [XVWA](https://github.com/s4n7h0/xvwa) - XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.
 - [Zap WAVE](https://code.google.com/p/zaproxy/downloads/detail?name=zap-wave-0.1.zip) - An easy to use integrated penetration testing tool for finding vulnerabilities in web applications
 - [Web-Security Academy](https://portswigger.net/web-security) - A free platform for learining and testing your Web Application security skills with practice labs and learning materials by Portswigger.
-
+- [OWASP Juice Shop](https://juice-shop.herokuapp.com/) - An Open Source platform for testing Web-Application Security skills. The application contains a vast number of hacking challenges of varying difficulty level.
 
 ### Sites for Downloading Older Versions of Various Software
 - [Exploit-DB 	](http://www.exploit-db.com/) - The Exploit Database is maintained by Offensive Security, an information security training company that provides various Information Security Certifications as well as high end penetration testing services.
