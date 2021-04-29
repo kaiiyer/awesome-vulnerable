@@ -152,6 +152,7 @@ Compass Security is a well renowned European company specializing in penetration
 - [Google Gruyere](https://google-gruyere.appspot.com/) - This ‘cheesy’ vulnerable site is full of holes and aimed for those just starting to learn application security. 
 - [Hellbound Hackers](https://www.hellboundhackers.org/) - Hellbound Hackers, the hands-on approach to computer security, offers a wide array of challenges with the aim to teach how to identify exploits and suggest the code to patch it
 - [Peruggia](https://sourceforge.net/projects/peruggia/) - Peruggia is a safe environment for security professionals and developers to learn and test common attacks on web applications.
+- [oliverwiegers/pentest_lab](https://github.com/oliverwiegers/pentest_lab) - Local pentest lab leveraging Docker Compose.
 
 ## Mobile Apps
 - [Damn Vulnerable Android App (DVAA) ](https://code.google.com/p/dvaa/) - Damn Vulnerable Android App (DVAA) is an Android application which contains intentional vulnerabilities
