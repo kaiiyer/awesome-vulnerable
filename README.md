@@ -36,6 +36,7 @@
 - [Damn Vulnerable Web App (DVWA) 	](http://www.dvwa.co.uk/) - Damn Vulnerablbe Web Application
 - [Damn Vulnerable Web Services (DVWS) 	](https://github.com/snoopysecurity/dvws) - 
 Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real world web service vulnerabilities.
+- [Firing Range](https://public-firing-range.appspot.com/) - a test bed created by Google for automated web application security scanners.
 - [Foundstone Hackme Bank ](https://www.mcafee.com/us/downloads/free-tools/hacme-bank.aspx) - Free McAfee tools to aid in your security protection.
 - [Foundstone Hackme Books ](https://www.mcafee.com/us/downloads/free-tools/hacmebooks.aspx) - Free McAfee tools to aid in your security protection.
 - [Foundstone Hackme Casino ](httsp://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx)- Free McAfee tools to aid in your security protection.
