@@ -81,11 +81,13 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [Acunetix acuforum 	](https://testasp.vulnweb.com/) - A forum deliberately vulnerable to SQL Injections, directory traversal, and other web-based attacks
 - [Acunetix acublog 	](https://testaspnet.vulnweb.com/) - A test site for Acunetix. It is vulnerable to SQL Injections, Cross-site Scripting (XSS), and more
 - [Acunetix acuart 	](https://testphp.vulnweb.com/) -This is an example PHP application, which is intentionally vulnerable to web attacks. It is intended to help you test Acunetix
+- [Acunetix SecurityTweets 	](http://testhtml5.vulnweb.com) - Vulnerable HTML5 test website for Acunetix Web Vulnerability Scanner.
 - [Cenzic crackmebank ](http://crackme.cenzic.com) -  This is a test and demonstration site
 - [HP freebank 	](http://zero.webappsecurity.com) - The Free Online Bank Web site is published by Micro Focus Fortify for the sole purpose of demonstrating the functionality and effectiveness of Micro Focus Fortify’s WebInspect products in detecting and reporting Web application vulnerabilities.
 - [IBM altoromutual 	](http://demo.testfire.net/) - The AltoroJ website is published by IBM Corporation for the sole purpose of demonstrating the effectiveness of IBM products in detecting web application vulnerabilities and website defects
 - [Mavituna testsparker 	](http://aspnet.testsparker.com) -  This is a test and demonstration site for Netsparker
 - [Mavituna testsparker 	](http://php.testsparker.com) - This is a test and demonstration site for Netsparker , Next Generation Web Application Security Scanner. Start Netsparker to scan this web site and let it find the vulnerabilities
+- [Mavituna testsparker 	](http://angular.testsparker.com) -  This is a test and demonstration site for Netsparker
 - [NTOSpider Test Site 	](http://www.webscantest.com/) - This site is setup to test automated Web Application scanners like AppSpider
 
 ## Sites for Improving Your Hacking Skills
