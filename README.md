@@ -70,7 +70,7 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [Web-Security Academy](https://portswigger.net/web-security) - A free platform for learining and testing your Web Application security skills with practice labs and learning materials by Portswigger
 - [OWASP Juice Shop](https://juice-shop.herokuapp.com/) - An Open Source platform for testing Web-Application Security skills. The application contains a vast number of hacking challenges of varying difficulty level
 
-### Sites for Downloading Older Versions of Various Software
+## Sites for Downloading Older Versions of Various Software
 - [Exploit-DB 	](http://www.exploit-db.com/) - The Exploit Database is maintained by Offensive Security, an information security training company that provides various Information Security Certifications as well as high end penetration testing services
 - [Old Apps 	](http://www.oldapps.com/) - Provide our users with a wide assortment of current versions of familiar software, and their predecessors for free
 - [Old Version 	](http://www.oldversion.com/) - Pick a software title... to downgrade to the version you love!
@@ -135,7 +135,7 @@ Compass Security is a well renowned European company specializing in penetration
 - [Maxkersten Binary Analysis](https://maxkersten.nl/binary-analysis-course/) - A practical binary analysis course
 - [PwnAdventure](https://pwnadventure.com) - Pwnie Island is a limited-release, first-person, true open-world MMORPG set on a beautiful island where anything could happen. That's because this game is intentionally vulnerable to all kinds of silly hacks! Flying, endless cash, and more are all one client change or network proxy away
 
-### Labs
+## Labs
 - [CTFd ](https://github.com/isislab/CTFd) - CTFs as you need them
 - [Mellivora ](https://github.com/Nakiami/mellivora) - Mellivora is a CTF engine written in PHP 
 - [Metasploitable2  ](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) - Metasploitable is an intentionally vulnerable Linux virtual machine 
