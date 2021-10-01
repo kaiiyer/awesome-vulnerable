@@ -91,6 +91,8 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [NTOSpider Test Site 	](http://www.webscantest.com/) - This site is setup to test automated Web Application scanners like AppSpider
 
 ## Sites for Improving Your Hacking Skills
+
+- [Blue Team Labs Online - Cyber Range](https://blueteamlabs.online/) -A gamified platform for defenders to practice their skills in security investigations and challenges covering; Incident Response, Digital Forensics, Security Operations, Reverse Engineering, and Threat Hunting.
 - [Embedded Security CTF ](https://microcorruption.com) - Scattered throughout the world in locked warehouses are briefcases filled with Cy Yombinator bearer bonds that could be worth billions comma billions of dollars. You will help steal the briefcases
 - [EnigmaGroup 	](http://www.enigmagroup.org/) -  Enigma Group has been providing its members a legal and safe security resource where they can develop their pen-testing skills on various challenges provided by this site
 - [Escape 	](http://escape.alf.nu/) - The code generates HTML in an unsafe way. Prove it by calling alert(1)
