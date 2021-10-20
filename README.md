@@ -136,6 +136,7 @@ Compass Security is a well renowned European company specializing in penetration
 - [Komodo Consulting](http://ctf.komodosec.com) -  Application Security Challenge designed to challenge your application hacking skills
 - [Maxkersten Binary Analysis](https://maxkersten.nl/binary-analysis-course/) - A practical binary analysis course
 - [PwnAdventure](https://pwnadventure.com) - Pwnie Island is a limited-release, first-person, true open-world MMORPG set on a beautiful island where anything could happen. That's because this game is intentionally vulnerable to all kinds of silly hacks! Flying, endless cash, and more are all one client change or network proxy away
+- [INE](https://ine.com/) - Practical Hands-on Online IT Training and Certifications
 
 ## Labs
 - [CTFd ](https://github.com/isislab/CTFd) - CTFs as you need them
