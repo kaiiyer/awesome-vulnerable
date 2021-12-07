@@ -161,6 +161,7 @@ Compass Security is a well renowned European company specializing in penetration
 - [oliverwiegers/pentest_lab](https://github.com/oliverwiegers/pentest_lab) - Local pentest lab leveraging Docker Compose.
 
 ## Mobile Apps
+- [Allsafe](https://github.com/t0thkr1s/allsafe) - Allsafe is an intentionally vulnerable application that contains various vulnerabilities.
 - [Damn Vulnerable Android App (DVAA) ](https://code.google.com/p/dvaa/) - Damn Vulnerable Android App (DVAA) is an Android application which contains intentional vulnerabilities
 - [Damn Vulnerable FirefoxOS Application (DVFA) ](https://github.com/arroway/dvfa) - Damn Vulnerable FirefoxOS Application - a purposefully vulnerable application for demontrastion
 - [Damn Vulnerable iOS App (DVIA) ](damnvulnerableiosapp.com/) - Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable
