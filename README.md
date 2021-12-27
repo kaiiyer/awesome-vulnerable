@@ -61,6 +61,7 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [MCIR (Magical Code Injection Rainbow)](https://github.com/SpiderLabs/MCIR) - The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds
 - [Sqlilabs](https://github.com/himadriganguly/sqlilabs) - Lab set-up for learning SQL Injection Techniques 
 - [VulnApp](https://www.nth-dimension.org.uk/blog.php?id=88) - ASP.net application implementing some of the most common applications we come across on our penetration testing engagements
+- [VulnLab](https://github.com/Yavuzlar/VulnLab) - A vulnerable web application lab using Docker
 - [PuzzleMall](https://code.google.com/p/puzzlemall/) - A vulnerable web application for practicing session puzzling
 - [WackoPicko](https://github.com/adamdoupe/WackoPicko) -  WackoPicko is a vulnerable web application used to test web application vulnerability scanners
 - [WebGoat.NET](https://github.com/jerryhoff/WebGoat.NET/) - This web application is a learning platform that attempts to teach about common web security flaws. It contains generic security flaws that apply to most web applications
