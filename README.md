@@ -72,6 +72,8 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [Zap WAVE](https://code.google.com/p/zaproxy/downloads/detail?name=zap-wave-0.1.zip) - An easy to use integrated penetration testing tool for finding vulnerabilities in web applications
 - [Web-Security Academy](https://portswigger.net/web-security) - A free platform for learining and testing your Web Application security skills with practice labs and learning materials by Portswigger
 - [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) - An Open Source platform for testing Web-Application Security skills. The application contains a vast number of hacking challenges of varying difficulty level
+- [tegal1337/0l4bs](https://github.com/tegal1337/0l4bs) - Cross-site scripting (XSS) labs for web application security enthusiasts
+- [tegal1337/br0w](https://github.com/tegal1337/br0w) - Hack The Br0w | Play your browser and learn more, hack fun !!
 
 ## Sites for Downloading Older Versions of Various Software
 
@@ -164,6 +166,7 @@ Compass Security is a well renowned European company specializing in penetration
 - [Hellbound Hackers](https://www.hellboundhackers.org/) - Hellbound Hackers, the hands-on approach to computer security, offers a wide array of challenges with the aim to teach how to identify exploits and suggest the code to patch it
 - [Peruggia](https://sourceforge.net/projects/peruggia/) - Peruggia is a safe environment for security professionals and developers to learn and test common attacks on web applications.
 - [oliverwiegers/pentest_lab](https://github.com/oliverwiegers/pentest_lab) - Local pentest lab leveraging Docker Compose.
+
 
 ## Mobile Apps
 - [Allsafe](https://github.com/t0thkr1s/allsafe) - Allsafe is an intentionally vulnerable application that contains various vulnerabilities.
