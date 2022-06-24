@@ -73,7 +73,7 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [Web-Security Academy](https://portswigger.net/web-security) - A free platform for learining and testing your Web Application security skills with practice labs and learning materials by Portswigger
 - [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) - An Open Source platform for testing Web-Application Security skills. The application contains a vast number of hacking challenges of varying difficulty level
 - [tegal1337/0l4bs](https://github.com/tegal1337/0l4bs) - Cross-site scripting (XSS) labs for web application security enthusiasts
-- [tegal1337/br0w](https://github.com/tegal1337/br0w) - Hack The Br0w | Play your browser and learn more, hack fun !!
+- [tegal1337/br0w](https://github.com/tegal1337/br0w) - Hack The Br0w. Play your browser and learn more, hack fun!
 
 ## Sites for Downloading Older Versions of Various Software
 
