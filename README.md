@@ -120,7 +120,7 @@ Compass Security is a well renowned European company specializing in penetration
 - [Metasploit Unleashed    ](https://www.offensive-security.com/metasploit-unleashed/) - The Metasploit Unleashed (MSFU) course is provided free of charge by Offensive Security in order to raise awareness for underprivileged children in East Africa
 - [OverTheWire](http://www.overthewire.org/wargames/) - The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games
 - [PentestIT](https://lab.pentestit.ru/) - Penetration testing laboratories "Test lab" emulate an IT infrastructure of real companies and are created for a legal pen testing and improving penetration testing skills
-- <b>[CSC Play on Demand](https://pod.cybersecuritychallenge.org.uk/)</b> - The aim of this challenge is to identify the means by which an insider may accidentally or maliciously leak organisational secrets via seemingly innocent files
+- [CSC Play on Demand](https://pod.cybersecuritychallenge.org.uk/) - The aim of this challenge is to identify the means by which an insider may accidentally or maliciously leak organisational secrets via seemingly innocent files
 - [Root Me](http://www.root-me.org/?lang=en) - The fast, easy, and affordable way to train your hacking skills
 - [Security Treasure Hunt](http://www.securitytreasurehunt.com/) - A new Packet Capture-based Web Vulnerability Analysis challenge is available through April 30th, 2013, sponsored by Cyber Aces
 - [Smash The Stack](http://www.smashthestack.org/) - Wargaming Network
