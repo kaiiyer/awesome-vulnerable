@@ -26,6 +26,7 @@
 
 - [BadStore](https://www.vulnhub.com/entry/badstore-123,41/) - Badstore.net is dedicated to helping you understand how hackers prey on Web application vulnerabilities, and to showing you how to reduce your exposure. Our Badstore demonstration software is designed to show you common hacking techniques.
 - [BodgeIt Store](http://code.google.com/p/bodgeit/) - The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.
+- [Bug Bounty Hunter](https://bugbountyhunter.com/) - BugBountyHunter is a training platform created by bug bounty hunter zseano designed to help you learn all about web application vulnerabilities and how to get started.
 - [Butterfly Security Project](http://thebutterflytmp.sourceforge.net/) - The ButterFly project is an educational environment intended to give an insight into common web application and PHP vulnerabilities. The environment also includes examples demonstrating how such vulnerabilities are mitigated.
 - [bWAPP](http://sourceforge.net/projects/bwapp/files/bee-box/) - bee-box is a custom Linux VM pre-installed with bWAPP. 
 - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat.git) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool 
