@@ -32,6 +32,7 @@
 - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat.git) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool 
 - [Commix](https://github.com/stasinopoulos/commix-testbed) - A collection of web pages, vulnerable to command injection flaws. 
 - [CryptOMG](https://github.com/SpiderLabs/CryptOMG) - CryptOMG is a configurable CTF style test bed that highlights common flaws in cryptographic implementations.
+- [CTFchallenge](https://ctfchallenge.com/) - CTFchallenge s a collection of 12 vulnerable web applications, each one has its own realistic infrastructure built over several subdomains containing vulnerabilities based on bug reports, real world experiences or vulnerabilities found in the OWASP Top 10.
 - [Damn Vulnerable Cloud Application](https://github.com/m6a-UdS/dvca.git) - Damn Vulnerable Cloud Application 
 - [Damn Vulnerable Node Application(DVNA)](https://github.com/appsecco/dvna) - Damn Vulnerable NodeJS Application 
 - [Damn Vulnerable Web App (DVWA)](http://www.dvwa.co.uk/) - Damn Vulnerablbe Web Application
