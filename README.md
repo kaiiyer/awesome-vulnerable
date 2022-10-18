@@ -168,6 +168,7 @@ Compass Security is a well renowned European company specializing in penetration
 - [Hellbound Hackers](https://www.hellboundhackers.org/) - Hellbound Hackers, the hands-on approach to computer security, offers a wide array of challenges with the aim to teach how to identify exploits and suggest the code to patch it
 - [Peruggia](https://sourceforge.net/projects/peruggia/) - Peruggia is a safe environment for security professionals and developers to learn and test common attacks on web applications.
 - [oliverwiegers/pentest_lab](https://github.com/oliverwiegers/pentest_lab) - Local pentest lab leveraging Docker Compose.
+- [Hacksplaining](https://www.hacksplaining.com/) - Interactive lessions for several well-known web vulnerabilities. 
 
 
 ## Mobile Apps
