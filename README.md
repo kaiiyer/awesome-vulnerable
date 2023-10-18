@@ -52,13 +52,13 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [NOWASP / Mutillidae 2](https://github.com/webpwnized/mutillidae) - OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiast. 
 - [OWASP BWA](http://code.google.com/p/owaspbwa/) - A collection of vulnerable web applications that is distributed on a Virtual Machine in VMware format compatible with their no-cost VMware Player and VMware vSphere Hypervisor (ESXi) products (along with their older and commercial products).
 - [OWASP Hackademic](https://github.com/Hackademic/hackademic/) - Project helps you test your knowledge on web application security. You can use it to actually attack web applications in a realistic but also controllable and safe environment.
-- [OWASP SiteGenerator](https://www.owasp.org/index.php/Owasp_SiteGenerator) - OWASP SiteGenerator allows the creating of dynamic websites based on XML files and predefined vulnerabilities (some simple, some complex) covering .Net languages and web development architectures (for example, navigation: Html, Javascript, Flash, Java, etc).
+- [OWASP SiteGenerator](https://www.owasp.org/index.php/Owasp_SiteGenerator) - OWASP SiteGenerator allows the creation of dynamic websites based on XML files and predefined vulnerabilities (some simple, some complex) covering .Net languages and web development architectures (for example, navigation: Html, Javascript, Flash, Java, etc).
 - [OWASP Bricks](https://sourceforge.net/projects/owaspbricks/) -  Web application security learning platform built on PHP and MySQL 
 - [OWASP Security Shepherd](https://www.owasp.org/index.php/OWASP_Security_Shepherd) - OWASP Security Shepherd is a web and mobile application security training platform. Security Shepherd has been designed to foster and improve security awareness among a varied skill-set demographic
 - [PentesterLab](https://pentesterlab.com/) - We make learning web hacking easier!
-- [SecuriBench](https://suif.stanford.edu/~livshits/securibench/) - Stanford SecuriBench is a set of open source real-life programs to be used as a testing ground for static and dynamic security tools. Release .91a focuses on Web-based applications written in Java. 
+- [SecuriBench](https://suif.stanford.edu/~livshits/securibench/) - Stanford SecuriBench is a set of open-source real-life programs to be used as a testing ground for static and dynamic security tools. Release .91a focuses on Web-based applications written in Java. 
 - [SentinelTestbed](https://github.com/dobin/SentinelTestbed) - Vulnerable web site. Used to test sentinel features.
-- [SocketToMe](http://digi.ninja/projects/sockettome.php) - It combines chat, a simple number guessing game and a few other hidden features
+- [SocketToMe](http://digi.ninja/projects/sockettome.php) - It combines chat, a simple number guessing game, and a few other hidden features
 - [sqli-labs](https://github.com/Audi-1/sqli-labs) - SQLI labs to test error based, Blind boolean based, Time based.
 - [MCIR (Magical Code Injection Rainbow)](https://github.com/SpiderLabs/MCIR) - The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds
 - [Sqlilabs](https://github.com/himadriganguly/sqlilabs) - Lab set-up for learning SQL Injection Techniques 
@@ -72,7 +72,7 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [WebSecurity Dojo](https://www.mavensecurity.com/web_security_dojo/) - A free open-source self-contained training environment for Web Application Security penetration testing. Tools + Targets = Dojo
 - [XVWA](https://github.com/s4n7h0/xvwa) - XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.
 - [Zap WAVE](https://code.google.com/p/zaproxy/downloads/detail?name=zap-wave-0.1.zip) - An easy to use integrated penetration testing tool for finding vulnerabilities in web applications
-- [Web-Security Academy](https://portswigger.net/web-security) - A free platform for learining and testing your Web Application security skills with practice labs and learning materials by Portswigger
+- [Web-Security Academy](https://portswigger.net/web-security) - A free platform for learning and testing your Web Application security skills with practice labs and learning materials by Portswigger
 - [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) - An Open Source platform for testing Web-Application Security skills. The application contains a vast number of hacking challenges of varying difficulty level
 - [tegal1337/0l4bs](https://github.com/tegal1337/0l4bs) - Cross-site scripting (XSS) labs for web application security enthusiasts
 - [tegal1337/br0w](https://github.com/tegal1337/br0w) - Hack The Br0w. Play your browser and learn more, hack fun!
@@ -175,7 +175,7 @@ Compass Security is a well renowned European company specializing in penetration
 ## Mobile Apps
 - [Allsafe](https://github.com/t0thkr1s/allsafe) - Allsafe is an intentionally vulnerable application that contains various vulnerabilities.
 - [Damn Vulnerable Android App (DVAA)](https://code.google.com/p/dvaa/) - Damn Vulnerable Android App (DVAA) is an Android application which contains intentional vulnerabilities
-- [Damn Vulnerable FirefoxOS Application (DVFA)](https://github.com/arroway/dvfa) - Damn Vulnerable FirefoxOS Application - a purposefully vulnerable application for demontrastion
+- [Damn Vulnerable FirefoxOS Application (DVFA)](https://github.com/arroway/dvfa) - Damn Vulnerable FirefoxOS Application - a purposefully vulnerable application for demonstration
 - [Damn Vulnerable iOS App (DVIA)](damnvulnerableiosapp.com/) - Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable
 - [ExploitMe Mobile Android Labs](https://securitycompass.github.io/AndroidLabs/) - The insecure Android app for your hacking pleasure
 - [ExploitMe Mobile iPhone Labs](https://securitycompass.github.io/iPhoneLabs/) - A defective iPhone App for your hacking pleasure
