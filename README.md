@@ -186,4 +186,11 @@ Compass Security is a well renowned European company specializing in penetration
 - [OWASP MSTG Hacking Playground](https://github.com/OWASP/MSTG-Hacking-Playground) - A set of mobile vulnerable apps of which you can exploit the vulnerabilities using techniques of the OWASP MSTG.
 - [OWASP MSTG Crackmes](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes) - A set of mobile apps that help you to improve your reverse engineering skills base don the [OWASP MSTG](https://github.com/OWASP/owasp-mstg).
 
+## API
+- [OWASP crAPI](https://github.com/OWASP/crAPI) - crAPI stands for “Completely Ridiculous API”. It simulates an API-driven, microservice-based web application that is a platform for vehicle owners. crAPI specializes in the common vulnerabilities that happen in modern API-based applications, including all those in the OWASP Top 10 for APIs.
+- [VAmPI](https://github.com/erev0s/VAmPI) - VAmPI is a vulnerable API made with Flask and it includes vulnerabilities from the OWASP top 10 vulnerabilities for APIs.
+- [capital](https://github.com/Checkmarx/capital) - A built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.
+- [dvws-node](https://github.com/snoopysecurity/dvws-node) - Damn Vulnerable Web Services is a vulnerable application with a web service and an API that can be used to learn about webservices/API related vulnerabilities.
+
+
 Contributions are always appreciated
