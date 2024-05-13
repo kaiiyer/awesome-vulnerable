@@ -62,7 +62,6 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [sqli-labs](https://github.com/Audi-1/sqli-labs) - SQLI labs to test error based, Blind boolean based, Time based.
 - [MCIR (Magical Code Injection Rainbow)](https://github.com/SpiderLabs/MCIR) - The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds
 - [Sqlilabs](https://github.com/himadriganguly/sqlilabs) - Lab set-up for learning SQL Injection Techniques
-- [VulnerableLightApp](https://github.com/Aif4thah/VulnerableLightApp) - Vulnerable API for educational purposes
 - [VulnApp](https://www.nth-dimension.org.uk/blog.php?id=88) - ASP.net application implementing some of the most common applications we come across on our penetration testing engagements
 - [VulnLab](https://github.com/Yavuzlar/VulnLab) - A vulnerable web application lab using Docker
 - [PuzzleMall](https://code.google.com/p/puzzlemall/) - A vulnerable web application for practicing session puzzling
@@ -194,6 +193,7 @@ Compass Security is a well renowned European company specializing in penetration
 - [VAmPI](https://github.com/erev0s/VAmPI) - VAmPI is a vulnerable API made with Flask and it includes vulnerabilities from the OWASP top 10 vulnerabilities for APIs.
 - [capital](https://github.com/Checkmarx/capital) - A built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.
 - [dvws-node](https://github.com/snoopysecurity/dvws-node) - Damn Vulnerable Web Services is a vulnerable application with a web service and an API that can be used to learn about webservices/API related vulnerabilities.
+- [VulnerableLightApp](https://github.com/Aif4thah/VulnerableLightApp) - Vulnerable API for educational purposes
 
 
 Contributions are always appreciated
