@@ -149,7 +149,6 @@ Compass Security is a well renowned European company specializing in penetration
 - [PwnAdventure](https://pwnadventure.com) - Pwnie Island is a limited-release, first-person, true open-world MMORPG set on a beautiful island where anything could happen. That's because this game is intentionally vulnerable to all kinds of silly hacks! Flying, endless cash, and more are all one client change or network proxy away
 - [INE](https://ine.com/) - Practical Hands-on Online IT Training and Certifications
 
-
 ## Labs
 - [CTFd](https://github.com/isislab/CTFd) - CTFs as you need them
 - [Mellivora](https://github.com/Nakiami/mellivora) - Mellivora is a CTF engine written in PHP 
@@ -173,6 +172,7 @@ Compass Security is a well renowned European company specializing in penetration
 - [oliverwiegers/pentest_lab](https://github.com/oliverwiegers/pentest_lab) - Local pentest lab leveraging Docker Compose.
 - [Hacksplaining](https://www.hacksplaining.com/) - Interactive lessions for several well-known web vulnerabilities. 
 - [LabEx](https://labex.io/skilltrees/cybersecurity) - An online platform for enhancing your Linux, DevOps, and Cybersecurity skills through hands-on labs
+
 
 ## Mobile Apps
 - [Allsafe](https://github.com/t0thkr1s/allsafe) - Allsafe is an intentionally vulnerable application that contains various vulnerabilities.
