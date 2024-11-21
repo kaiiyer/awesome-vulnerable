@@ -171,6 +171,7 @@ Compass Security is a well renowned European company specializing in penetration
 - [Peruggia](https://sourceforge.net/projects/peruggia/) - Peruggia is a safe environment for security professionals and developers to learn and test common attacks on web applications.
 - [oliverwiegers/pentest_lab](https://github.com/oliverwiegers/pentest_lab) - Local pentest lab leveraging Docker Compose.
 - [Hacksplaining](https://www.hacksplaining.com/) - Interactive lessions for several well-known web vulnerabilities. 
+- [LabEx](https://labex.io/skilltrees/cybersecurity) - An online platform for enhancing your Linux, DevOps, and Cybersecurity skills through hands-on labs
 
 
 ## Mobile Apps
