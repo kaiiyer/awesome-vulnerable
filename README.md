@@ -8,7 +8,6 @@
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/kaiiyer/awesome-vulnerable.svg)](https://GitHub.com/kaiiyer/awesome-vulnerable/pull/)
 [![GitHub contributors](https://img.shields.io/github/contributors/kaiiyer/awesome-vulnerable.svg)](https://GitHub.com/kaiiyer/awesome-vulnerable/graphs/contributors/)
 ![Last Commit on GitHub](https://img.shields.io/github/last-commit/kaiiyer/awesome-vulnerable.svg)
-[<img src="https://api.gitsponsors.com/api/badge/img?id=201734799" height="20">](https://api.gitsponsors.com/api/badge/link?p=PHzXm4+cFn71RKhNn3F78fCN0x/iQE0XUuztP3dy3MkzfUhV7Yeeh2uTlMsI4Hem)
 
 [<img src="https://api.gitsponsors.com/api/badge/img?id=201734799" height="20">](https://api.gitsponsors.com/api/badge/link?p=PHzXm4+cFn71RKhNn3F78RRhs9pawHu7TB6tctgGE7PV3Ewsx6q/Uxs/8LxyFLSat9LxEqBjHCcRWwaua1Fw7gmYwVw9Mga075ird05yrKEiE1fi6ZhNxkrqnP5KU/qB4L+cTTYoqQF4O+JqSWhn7w==)
 
