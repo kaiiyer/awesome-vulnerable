@@ -1,8 +1,8 @@
 # Awesome Vulnerable
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://visitor-badge.laobi.icu/badge?page_id=kaiiyer.awesome-vulnerable)
 ![Git Actions](https://github.com/kaiiyer/awesome-vulnerable/workflows/CI/badge.svg)
-<a href='https://ind.ie/ethical-design'><img style='margin-left: auto; margin-right: auto;' alt='We practice Ethical Design' src='https://img.shields.io/badge/Ethical_Design-_▲_❤_-blue.svg'></a>
+ <a href='https://ind.ie/ethical-design'><img style='margin-left: auto; margin-right: auto;' alt='We practice Ethical Design' src='https://img.shields.io/badge/Ethical_Design-_▲_❤_-blue.svg'></a>
 [![GitHub stars](https://img.shields.io/github/stars/kaiiyer/awesome-vulnerable)](https://github.com/kaiiyer/awesome-vulnerable/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/kaiiyer/awesome-vulnerable.svg)](https://GitHub.com/kaiiyer/awesome-vulnerable/issues/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/kaiiyer/awesome-vulnerable.svg)](https://GitHub.com/kaiiyer/awesome-vulnerable/pull/)
@@ -28,15 +28,15 @@
 - [BodgeIt Store](http://code.google.com/p/bodgeit/) - The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.
 - [Bug Bounty Hunter](https://bugbountyhunter.com/) - BugBountyHunter is a training platform created by bug bounty hunter zseano designed to help you learn all about web application vulnerabilities and how to get started.
 - [Butterfly Security Project](http://thebutterflytmp.sourceforge.net/) - The ButterFly project is an educational environment intended to give an insight into common web application and PHP vulnerabilities. The environment also includes examples demonstrating how such vulnerabilities are mitigated.
-- [bWAPP](http://sourceforge.net/projects/bwapp/files/bee-box/) - bee-box is a custom Linux VM pre-installed with bWAPP. 
-- [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat.git) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool 
-- [Commix](https://github.com/stasinopoulos/commix-testbed) - A collection of web pages, vulnerable to command injection flaws. 
+- [bWAPP](http://sourceforge.net/projects/bwapp/files/bee-box/) - bee-box is a custom Linux VM pre-installed with bWAPP.
+- [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat.git) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
+- [Commix](https://github.com/stasinopoulos/commix-testbed) - A collection of web pages, vulnerable to command injection flaws.
 - [CryptOMG](https://github.com/SpiderLabs/CryptOMG) - CryptOMG is a configurable CTF style test bed that highlights common flaws in cryptographic implementations.
 - [CTFchallenge](https://ctfchallenge.com/) - CTFchallenge s a collection of 12 vulnerable web applications, each one has its own realistic infrastructure built over several subdomains containing vulnerabilities based on bug reports, real world experiences or vulnerabilities found in the OWASP Top 10.
-- [Damn Vulnerable Cloud Application](https://github.com/m6a-UdS/dvca.git) - Damn Vulnerable Cloud Application 
-- [Damn Vulnerable Node Application(DVNA)](https://github.com/appsecco/dvna) - Damn Vulnerable NodeJS Application 
+- [Damn Vulnerable Cloud Application](https://github.com/m6a-UdS/dvca.git) - Damn Vulnerable Cloud Application
+- [Damn Vulnerable Node Application(DVNA)](https://github.com/appsecco/dvna) - Damn Vulnerable NodeJS Application
 - [Damn Vulnerable Web App (DVWA)](http://www.dvwa.co.uk/) - Damn Vulnerablbe Web Application
-- [Damn Vulnerable Web Services (DVWS)](https://github.com/snoopysecurity/dvws) - 
+- [Damn Vulnerable Web Services (DVWS)](https://github.com/snoopysecurity/dvws) -
 Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real world web service vulnerabilities.
 - [Firing Range](https://public-firing-range.appspot.com/) - a test bed created by Google for automated web application security scanners.
 - [Foundstone Hackme Bank](https://www.mcafee.com/us/downloads/free-tools/hacme-bank.aspx) - Free McAfee tools to aid in your security protection.
@@ -44,19 +44,19 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [Foundstone Hackme Casino](httsp://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx)- Free McAfee tools to aid in your security protection.
 - [Foundstone Hackme Shipping](https://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx) - Free McAfee tools to aid in your security protection.
 - [Foundstone Hackme Travel](https://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx) - Free McAfee tools to aid in your security protection.
-- [GameOver](https://sourceforge.net/projects/null-gameover/) - Project GameOver was started with the objective of training and educating newbies about the basics of web security and educate them about the common web attacks and help them understand how they work. 
+- [GameOver](https://sourceforge.net/projects/null-gameover/) - Project GameOver was started with the objective of training and educating newbies about the basics of web security and educate them about the common web attacks and help them understand how they work.
 - [hackxor](https://hackxor.sourceforge.net/cgi-bin/index.pl) - Hackxor is a realistic web application hacking game, designed to help players of all abilities develop their skills. All the missions are based on real vulnerabilities I've personally found while doing pentests, bug bounty hunting, and research.
-- [Hackazon](https://github.com/rapid7/hackazon) -  A modern vulnerable web app 
+- [Hackazon](https://github.com/rapid7/hackazon) -  A modern vulnerable web app
 - [LAMPSecurity](http://sourceforge.net/projects/lampsecurity/) - LAMPSecurity training is designed to be a series of vulnerable virtual machine images along with complementary documentation designed to teach linux,apache,php,mysql security.
 - [OWASP Mantra](https://sourceforge.net/projects/getmantra/) - Free and Open Source Browser based Security Framework, is a collection of free and open source tools integrated into a web browser, which can become handy for penetration testers, web application developers, security professionals etc.
-- [NOWASP / Mutillidae 2](https://github.com/webpwnized/mutillidae) - OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiast. 
+- [NOWASP / Mutillidae 2](https://github.com/webpwnized/mutillidae) - OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiast.
 - [OWASP BWA](http://code.google.com/p/owaspbwa/) - A collection of vulnerable web applications that is distributed on a Virtual Machine in VMware format compatible with their no-cost VMware Player and VMware vSphere Hypervisor (ESXi) products (along with their older and commercial products).
 - [OWASP Hackademic](https://github.com/Hackademic/hackademic/) - Project helps you test your knowledge on web application security. You can use it to actually attack web applications in a realistic but also controllable and safe environment.
 - [OWASP SiteGenerator](https://www.owasp.org/index.php/Owasp_SiteGenerator) - OWASP SiteGenerator allows the creating of dynamic websites based on XML files and predefined vulnerabilities (some simple, some complex) covering .Net languages and web development architectures (for example, navigation: Html, Javascript, Flash, Java, etc).
-- [OWASP Bricks](https://sourceforge.net/projects/owaspbricks/) -  Web application security learning platform built on PHP and MySQL 
+- [OWASP Bricks](https://sourceforge.net/projects/owaspbricks/) -  Web application security learning platform built on PHP and MySQL
 - [OWASP Security Shepherd](https://www.owasp.org/index.php/OWASP_Security_Shepherd) - OWASP Security Shepherd is a web and mobile application security training platform. Security Shepherd has been designed to foster and improve security awareness among a varied skill-set demographic
 - [PentesterLab](https://pentesterlab.com/) - We make learning web hacking easier!
-- [SecuriBench](https://suif.stanford.edu/~livshits/securibench/) - Stanford SecuriBench is a set of open source real-life programs to be used as a testing ground for static and dynamic security tools. Release .91a focuses on Web-based applications written in Java. 
+- [SecuriBench](https://suif.stanford.edu/~livshits/securibench/) - Stanford SecuriBench is a set of open source real-life programs to be used as a testing ground for static and dynamic security tools. Release .91a focuses on Web-based applications written in Java.
 - [SentinelTestbed](https://github.com/dobin/SentinelTestbed) - Vulnerable web site. Used to test sentinel features.
 - [SocketToMe](http://digi.ninja/projects/sockettome.php) - It combines chat, a simple number guessing game and a few other hidden features
 - [sqli-labs](https://github.com/Audi-1/sqli-labs) - SQLI labs to test error based, Blind boolean based, Time based.
@@ -94,7 +94,9 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [Acunetix acuart](https://testphp.vulnweb.com/) -This is an example PHP application, which is intentionally vulnerable to web attacks. It is intended to help you test Acunetix
 - [Acunetix SecurityTweets](http://testhtml5.vulnweb.com) - Vulnerable HTML5 test website for Acunetix Web Vulnerability Scanner.
 - [Cenzic crackmebank](http://crackme.cenzic.com) -  This is a test and demonstration site
-- [HP freebank](http://zero.webappsecurity.com) - The Free Online Bank Web site is published by Micro Focus Fortify for the sole purpose of demonstrating the functionality and effectiveness of Micro Focus Fortify’s WebInspect products in detecting and reporting Web application vulnerabilities.
+- [Fortify Zero Bank](http://zero.webappsecurity.com) - The Free Online Bank Web site is published by Micro Focus Fortify for the sole purpose of demonstrating the functionality and effectiveness of Micro Focus Fortify’s WebInspect products in detecting and reporting Web application vulnerabilities.
+- [Fortify IWA.NET (Insecure Web Application) Pharmacy Direct](https://github.com/fortify/IWA-DotNet) - an example Microsoft.NET Core Web Application for use in DevSecOps scenarios and demonstrations. It includes some examples of bad and insecure code - which can be found using static and dynamic application security testing tools such as those provided by [OpenText](https://www.opentext.com).
+- [Fortify IWA.JAVA (Insecure Web Application) Pharmacy Direct](https://github.com/fortify/IWA-Java) - an example Java/Spring Web Application for use in DevSecOps scenarios and demonstrations. It includes some examples of bad and insecure code - which can be found using static and dynamic application security testing tools such as those provided by [OpenText](https://www.opentext.com).
 - [IBM altoromutual](http://demo.testfire.net/) - The AltoroJ website is published by IBM Corporation for the sole purpose of demonstrating the effectiveness of IBM products in detecting web application vulnerabilities and website defects
 - [Mavituna testsparker](http://aspnet.testsparker.com) -  This is a test and demonstration site for Netsparker
 - [Mavituna testsparker](http://php.testsparker.com) - This is a test and demonstration site for Netsparker , Next Generation Web Application Security Scanner. Start Netsparker to scan this web site and let it find the vulnerabilities
@@ -151,26 +153,26 @@ Compass Security is a well renowned European company specializing in penetration
 
 ## Labs
 - [CTFd](https://github.com/isislab/CTFd) - CTFs as you need them
-- [Mellivora](https://github.com/Nakiami/mellivora) - Mellivora is a CTF engine written in PHP 
-- [Metasploitable2 ](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) - Metasploitable is an intentionally vulnerable Linux virtual machine 
-- [NightShade](https://github.com/UnrealAkama/NightShade) - A simple capture the flag framework. 
-- [MCIR](https://github.com/SpiderLabs/MCIR) - The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds. 
+- [Mellivora](https://github.com/Nakiami/mellivora) - Mellivora is a CTF engine written in PHP
+- [Metasploitable2 ](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/) - Metasploitable is an intentionally vulnerable Linux virtual machine
+- [NightShade](https://github.com/UnrealAkama/NightShade) - A simple capture the flag framework.
+- [MCIR](https://github.com/SpiderLabs/MCIR) - The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds.
 - [Vagrant](https://www.vagrantup.com/) - Development Environments Made Easy
 - [NETinVM](https://informatica.uv.es/~carlos/docencia/netinvm/) - A tool for teaching and learning about systems, networks and security
 - [SmartOS](https://smartos.org/) - SmartOS is a free and open-source SVR4 hypervisor based on the UNIX operating system that combines OpenSolaris technology with Linux's KVM virtualization.
-- [SmartDataCenter](https://github.com/joyent/sdc) - Joyent Triton DataCenter: a cloud management platform with first class support for containers. 
-- [vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor/) - vSphere Hypervisor is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure. 
+- [SmartDataCenter](https://github.com/joyent/sdc) - Joyent Triton DataCenter: a cloud management platform with first class support for containers.
+- [vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor/) - vSphere Hypervisor is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 - [GNS3](http://sourceforge.net/projects/gns-3/) - Build, Design and Test your network in a risk-free virtual environment and access the largest networking community to help.
 - [OCCP](https://opencyberchallenge.net/) - A free, configurable, open-source virtualization platform for cyber security educators and challenge event coordinators.
 - [XAMPP](https://www.apachefriends.org/index.html) - XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. The XAMPP open source package has been set up to be incredibly easy to install and to use.
 - [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) - The Kubernetes Goat designed to be intentionally vulnerable cluster environment to learn and practice Kubernetes security.
 - [Offensive Security](https://www.offensive-security.com/labs/individual/) - Practice your pentesting skills in a standalone, private lab --environment with the additions of PG Play and PG Practice to Offensive Security’s Proving Grounds training labs.
 - [Game of Hacks](http://www.gameofhacks.com/) - Alright, this one isn’t exactly a vulnerable web app – but it’s another engaging way of learning to spot application security vulnerabilities, so we thought we’d throw it in
-- [Google Gruyere](https://google-gruyere.appspot.com/) - This ‘cheesy’ vulnerable site is full of holes and aimed for those just starting to learn application security. 
+- [Google Gruyere](https://google-gruyere.appspot.com/) - This ‘cheesy’ vulnerable site is full of holes and aimed for those just starting to learn application security.
 - [Hellbound Hackers](https://www.hellboundhackers.org/) - Hellbound Hackers, the hands-on approach to computer security, offers a wide array of challenges with the aim to teach how to identify exploits and suggest the code to patch it
 - [Peruggia](https://sourceforge.net/projects/peruggia/) - Peruggia is a safe environment for security professionals and developers to learn and test common attacks on web applications.
 - [oliverwiegers/pentest_lab](https://github.com/oliverwiegers/pentest_lab) - Local pentest lab leveraging Docker Compose.
-- [Hacksplaining](https://www.hacksplaining.com/) - Interactive lessions for several well-known web vulnerabilities. 
+- [Hacksplaining](https://www.hacksplaining.com/) - Interactive lessions for several well-known web vulnerabilities.
 - [LabEx](https://labex.io/skilltrees/cybersecurity) - An online platform for enhancing your Linux, DevOps, and Cybersecurity skills through hands-on labs
 
 
