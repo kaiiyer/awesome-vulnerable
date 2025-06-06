@@ -29,6 +29,7 @@
 - [Bug Bounty Hunter](https://bugbountyhunter.com/) - BugBountyHunter is a training platform created by bug bounty hunter zseano designed to help you learn all about web application vulnerabilities and how to get started.
 - [Butterfly Security Project](http://thebutterflytmp.sourceforge.net/) - The ButterFly project is an educational environment intended to give an insight into common web application and PHP vulnerabilities. The environment also includes examples demonstrating how such vulnerabilities are mitigated.
 - [bWAPP](http://sourceforge.net/projects/bwapp/files/bee-box/) - bee-box is a custom Linux VM pre-installed with bWAPP.
+- [Vulert](Vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.
 - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat.git) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
 - [Commix](https://github.com/stasinopoulos/commix-testbed) - A collection of web pages, vulnerable to command injection flaws.
 - [CryptOMG](https://github.com/SpiderLabs/CryptOMG) - CryptOMG is a configurable CTF style test bed that highlights common flaws in cryptographic implementations.
