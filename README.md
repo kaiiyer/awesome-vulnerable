@@ -1,3 +1,34 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="right">
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=en">English</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=zh-CN">简体中文</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=zh-TW">繁體中文</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=ja">日本語</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=ko">한국어</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=hi">हिन्दी</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=th">ไทย</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=fr">Français</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=de">Deutsch</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=es">Español</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=it">Itapano</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=ru">Русский</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=pt">Português</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=nl">Nederlands</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=pl">Polski</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=ar">العربية</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=fa">فارسی</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=tr">Türkçe</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=vi">Tiếng Việt</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=id">Bahasa Indonesia</a></p>
+      </div>
+    </div>
+  </details>
+</div>
+
 # Awesome Vulnerable
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://visitor-badge.laobi.icu/badge?page_id=kaiiyer.awesome-vulnerable)
