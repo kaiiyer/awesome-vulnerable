@@ -79,6 +79,7 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [tegal1337/br0w](https://github.com/tegal1337/br0w) - Hack The Br0w. Play your browser and learn more, hack fun!
 - [Pentest-Ground](https://pentest-ground.com/) - Pentest playground with several vulnerable web apps.
 - [Unguard](https://github.com/dynatrace-oss/unguard) - An insecure cloud-native microservices demo application for Kubernetes. Unguard includes vulnerable Java, .NET, Node.js, Go, and PHP services, MariaDB and Redis databases, an Envoy proxy, and a load generator.
+- [Duck Store](https://duck-store.escape.tech/)
 
 ## Sites for Downloading Older Versions of Various Software
 
