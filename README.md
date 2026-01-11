@@ -1,3 +1,34 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="right">
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=en">English</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=zh-CN">简体中文</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=zh-TW">繁體中文</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=ja">日本語</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=ko">한국어</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=hi">हिन्दी</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=th">ไทย</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=fr">Français</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=de">Deutsch</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=es">Español</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=it">Itapano</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=ru">Русский</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=pt">Português</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=nl">Nederlands</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=pl">Polski</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=ar">العربية</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=fa">فارسی</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=tr">Türkçe</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=vi">Tiếng Việt</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=kaiiyer&project=awesome-vulnerable&lang=id">Bahasa Indonesia</a></p>
+      </div>
+    </div>
+  </details>
+</div>
+
 # Awesome Vulnerable
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://visitor-badge.laobi.icu/badge?page_id=kaiiyer.awesome-vulnerable)
@@ -51,6 +82,7 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [LAMPSecurity](http://sourceforge.net/projects/lampsecurity/) - LAMPSecurity training is designed to be a series of vulnerable virtual machine images along with complementary documentation designed to teach linux,apache,php,mysql security.
 - [OWASP Mantra](https://sourceforge.net/projects/getmantra/) - Free and Open Source Browser based Security Framework, is a collection of free and open source tools integrated into a web browser, which can become handy for penetration testers, web application developers, security professionals etc.
 - [NOWASP / Mutillidae 2](https://github.com/webpwnized/mutillidae) - OWASP Mutillidae II is a free, open source, deliberately vulnerable web-application providing a target for web-security enthusiast.
+- [OSS – OopsSec Store](https://github.com/kOaDT/oss-oopssec-store) - An open-source, intentionally vulnerable e-commerce application built with Next.js and React. Provides a realistic CTF platform for learning web application security testing. Can be quickly set up using `npx create-oss-store`.
 - [OWASP BWA](http://code.google.com/p/owaspbwa/) - A collection of vulnerable web applications that is distributed on a Virtual Machine in VMware format compatible with their no-cost VMware Player and VMware vSphere Hypervisor (ESXi) products (along with their older and commercial products).
 - [OWASP Hackademic](https://github.com/Hackademic/hackademic/) - Project helps you test your knowledge on web application security. You can use it to actually attack web applications in a realistic but also controllable and safe environment.
 - [OWASP SiteGenerator](https://www.owasp.org/index.php/Owasp_SiteGenerator) - OWASP SiteGenerator allows the creating of dynamic websites based on XML files and predefined vulnerabilities (some simple, some complex) covering .Net languages and web development architectures (for example, navigation: Html, Javascript, Flash, Java, etc).
@@ -79,6 +111,7 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [tegal1337/br0w](https://github.com/tegal1337/br0w) - Hack The Br0w. Play your browser and learn more, hack fun!
 - [Pentest-Ground](https://pentest-ground.com/) - Pentest playground with several vulnerable web apps.
 - [Unguard](https://github.com/dynatrace-oss/unguard) - An insecure cloud-native microservices demo application for Kubernetes. Unguard includes vulnerable Java, .NET, Node.js, Go, and PHP services, MariaDB and Redis databases, an Envoy proxy, and a load generator.
+- [Duck Store](https://duck-store.escape.tech/)
 
 ## Sites for Downloading Older Versions of Various Software
 
@@ -176,6 +209,7 @@ Compass Security is a well renowned European company specializing in penetration
 - [Hacksplaining](https://www.hacksplaining.com/) - Interactive lessions for several well-known web vulnerabilities.
 - [LabEx](https://labex.io/skilltrees/cybersecurity) - An online platform for enhancing your Linux, DevOps, and Cybersecurity skills through hands-on labs
 - [gRPC Goat](https://github.com/rootxjs/grpc-goat) -  gRPC Goat is a "Vulnerable by Design" lab created to provide an interactive, hands-on playground for learning and practicing gRPC security. 
+- [SocengLab](https://github.com/dalpan/SocengLab) - SocEng Lab is an open-source adaptive social engineering simulation platform that brings academic rigor to security awareness training.
 
 
 ## Mobile Apps
