@@ -208,6 +208,7 @@ Compass Security is a well renowned European company specializing in penetration
 - [oliverwiegers/pentest_lab](https://github.com/oliverwiegers/pentest_lab) - Local pentest lab leveraging Docker Compose.
 - [Hacksplaining](https://www.hacksplaining.com/) - Interactive lessions for several well-known web vulnerabilities.
 - [LabEx](https://labex.io/skilltrees/cybersecurity) - An online platform for enhancing your Linux, DevOps, and Cybersecurity skills through hands-on labs
+- [gRPC Goat](https://github.com/rootxjs/grpc-goat) -  gRPC Goat is a "Vulnerable by Design" lab created to provide an interactive, hands-on playground for learning and practicing gRPC security. 
 - [SocengLab](https://github.com/dalpan/SocengLab) - SocEng Lab is an open-source adaptive social engineering simulation platform that brings academic rigor to security awareness training.
 
 
