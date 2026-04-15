@@ -67,7 +67,7 @@
 - [CTFchallenge](https://ctfchallenge.com/) - CTFchallenge s a collection of 12 vulnerable web applications, each one has its own realistic infrastructure built over several subdomains containing vulnerabilities based on bug reports, real world experiences or vulnerabilities found in the OWASP Top 10.
 - [Damn Vulnerable Cloud Application](https://github.com/m6a-UdS/dvca.git) - Damn Vulnerable Cloud Application
 - [Damn Vulnerable Node Application(DVNA)](https://github.com/appsecco/dvna) - Damn Vulnerable NodeJS Application
-- [Damn Vulnerable Web App (DVWA)](http://www.dvwa.co.uk/) - Damn Vulnerablbe Web Application
+- [Damn Vulnerable Web App (DVWA)](http://www.dvwa.co.uk/) - Damn Vulnerable Web Application
 - [Damn Vulnerable Web Services (DVWS)](https://github.com/snoopysecurity/dvws) -
 Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real world web service vulnerabilities.
 - [Firing Range](https://public-firing-range.appspot.com/) - a test bed created by Google for automated web application security scanners.
