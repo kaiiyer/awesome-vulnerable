@@ -140,6 +140,7 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 ## Sites for Improving Your Hacking Skills
 
 - [Blue Team Labs Online - Cyber Range](https://blueteamlabs.online/) -A gamified platform for defenders to practice their skills in security investigations and challenges covering; Incident Response, Digital Forensics, Security Operations, Reverse Engineering, and Threat Hunting.
+- [CyberKiller](https://cyberkiller.net) - A free live King-of-the-Hill hacking arena with rotating scenarios: a Game of Thrones Active Directory forest (GOAD) and a corporate Linux breach chain, with capture-and-hold flags and a live scoreboard.
 - [Embedded Security CTF](https://microcorruption.com) - Scattered throughout the world in locked warehouses are briefcases filled with Cy Yombinator bearer bonds that could be worth billions comma billions of dollars. You will help steal the briefcases
 - [EnigmaGroup](http://www.enigmagroup.org/) -  Enigma Group has been providing its members a legal and safe security resource where they can develop their pen-testing skills on various challenges provided by this site
 - [Escape](http://escape.alf.nu/) - The code generates HTML in an unsafe way. Prove it by calling alert(1)
