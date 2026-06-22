@@ -68,7 +68,7 @@
 - [Damn Vulnerable Cloud Application](https://github.com/m6a-UdS/dvca.git) - Damn Vulnerable Cloud Application
 - [DVAP (Damn Vulnerable AI Platform)](https://github.com/sonuoffsec/DVAP) - Open-source AI security training platform featuring vulnerable AI agents, prompt injection labs, MCP attacks, RAG exploitation, agent security, tool poisoning, and AI red-team exercises.
 - [Damn Vulnerable Node Application(DVNA)](https://github.com/appsecco/dvna) - Damn Vulnerable NodeJS Application
-- [Damn Vulnerable Web App (DVWA)](http://www.dvwa.co.uk/) - Damn Vulnerablbe Web Application
+- [Damn Vulnerable Web App (DVWA)](http://www.dvwa.co.uk/) - Damn Vulnerable Web Application
 - [Damn Vulnerable Web Services (DVWS)](https://github.com/snoopysecurity/dvws) -
 Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real world web service vulnerabilities.
 - [Firing Range](https://public-firing-range.appspot.com/) - a test bed created by Google for automated web application security scanners.
