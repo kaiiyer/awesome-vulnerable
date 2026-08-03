@@ -157,6 +157,7 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [Hack.me](https://hack.me) - Hacking-Lab is a service by Security Competence GmbH, a Swiss subsidiary of Compass Security AG.
 Compass Security is a well renowned European company specializing in penetration testing, incident response, digital forensics, and security trainings
 - [Hacking-Lab](https://www.hacking-lab.com) - Hack.me is a FREE, community based project powered by eLearnSecurity. The community can build, host and share vulnerable web application code for educational and research purposes
+- [Jackpot](https://hego.red/jackpot) - A ten floor AI hacking lab where every floor is a deliberately broken AI, one per category of the OWASP Top 10 for LLM Applications. Prompt injection, system prompt leakage, RAG poisoning and tool abuse, in the browser with no signup
 - [Hacker Test](http://www.hackertest.net/) - HackerTest.net is your own online hacker simulation. This new real-life imitation will help you advance your security knowledge of JavaScript, PHP, HTML and graphic thinking
 - [Halls Of Valhalla](http://halls-of-valhalla.org/beta/challenges) - Valhalla is a place for sharing knowledge and ideas. Users can submit code, as well as science, technology, and engineering-oriented news and articles
 - [Hax.Tor](http://hax.tor.hu/) - HaX.ToR.Hu is a challenge site putting emphasis on teaching basic security related issues in a fun way
