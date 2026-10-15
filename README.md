@@ -114,6 +114,8 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [Unguard](https://github.com/dynatrace-oss/unguard) - An insecure cloud-native microservices demo application for Kubernetes. Unguard includes vulnerable Java, .NET, Node.js, Go, and PHP services, MariaDB and Redis databases, an Envoy proxy, and a load generator.
 - [Duck Store](https://duck-store.escape.tech/)
 - [Swiss Cheese Software](https://github.com/grepStrength/swiss-cheese-software) - Intentionally vulnerable multi-language app (Node.js, Python, Rust) with hardcoded secrets and outdated dependencies. Designed to test supply chain security scanners, dependency auditors, and SBOM generators.
+- [vulnerable-javascript](https://github.com/EyalSec/vulnerable-javascript) - A deliberately vulnerable single page retail dashboard with 21 DOM-XSS flows across 8 sources and 18 sinks, hosted live on GitHub Pages with a catalogue of one-click trigger URLs.
+- [vulnerable-python](https://github.com/EyalSec/vulnerable-python) - A deliberately vulnerable Flask app where each endpoint wires one source of untrusted data into one risky operation: SQL, shell commands, eval, pickle, file paths, SSRF, XXE, ReDoS and more.
 
 ## Sites for Downloading Older Versions of Various Software
 
