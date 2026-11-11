@@ -113,7 +113,7 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 - [Pentest-Ground](https://pentest-ground.com/) - Pentest playground with several vulnerable web apps.
 - [Unguard](https://github.com/dynatrace-oss/unguard) - An insecure cloud-native microservices demo application for Kubernetes. Unguard includes vulnerable Java, .NET, Node.js, Go, and PHP services, MariaDB and Redis databases, an Envoy proxy, and a load generator.
 - [Duck Store](https://duck-store.escape.tech/)
-- [Swiss Cheese Software](https://github.com/grepStrength/swiss-cheese-software) - Intentionally vulnerable multi-language app (Node.js, Python, Rust) with hardcoded secrets and outdated dependencies. Designed to test supply chain security scanners, dependency auditors, and SBOM generators.
+- [web-security-fixtures](https://github.com/Excession-Labs/web-security-fixtures) - 21 small local fixtures (IDOR, SQL injection, SSRF, CSRF, GraphQL introspection and others), each with a vulnerable mode, a fixed mode, a verifier and a recorded run. Python and curl; binds to 127.0.0.1.
 
 ## Sites for Downloading Older Versions of Various Software
 
@@ -158,7 +158,6 @@ Damn Vulnerable Web Services is an insecure web application with multiple vulner
 Compass Security is a well renowned European company specializing in penetration testing, incident response, digital forensics, and security trainings
 - [Hacking-Lab](https://www.hacking-lab.com) - Hack.me is a FREE, community based project powered by eLearnSecurity. The community can build, host and share vulnerable web application code for educational and research purposes
 - [Hacker Test](http://www.hackertest.net/) - HackerTest.net is your own online hacker simulation. This new real-life imitation will help you advance your security knowledge of JavaScript, PHP, HTML and graphic thinking
-- [Halls Of Valhalla](http://halls-of-valhalla.org/beta/challenges) - Valhalla is a place for sharing knowledge and ideas. Users can submit code, as well as science, technology, and engineering-oriented news and articles
 - [Hax.Tor](http://hax.tor.hu/) - HaX.ToR.Hu is a challenge site putting emphasis on teaching basic security related issues in a fun way
 - [Metasploit Unleashed    ](https://www.offensive-security.com/metasploit-unleashed/) - The Metasploit Unleashed (MSFU) course is provided free of charge by Offensive Security in order to raise awareness for underprivileged children in East Africa
 - [OverTheWire](http://www.overthewire.org/wargames/) - The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games
@@ -167,7 +166,6 @@ Compass Security is a well renowned European company specializing in penetration
 - [Root Me](http://www.root-me.org/?lang=en) - The fast, easy, and affordable way to train your hacking skills
 - [Security Treasure Hunt](http://www.securitytreasurehunt.com/) - A new Packet Capture-based Web Vulnerability Analysis challenge is available through April 30th, 2013, sponsored by Cyber Aces
 - [Smash The Stack](http://www.smashthestack.org/) - Wargaming Network
-- [SQLZoo](http://sqlzoo.net/hack/) - Exploiting an SQL Inject attack involves solving a puzzle that is a cross between Hangman and 20 Questions. It needs a little understanding of SQL and a great deal of cunning
 - [TheBlackSheep and Erik](http://www.bright-shadows.net/) - Offers you hundreds of challenges in the fields of programming, JavaScript, PHP, Java, steganography, cryptography and others
 - [ThisIsLegal](http://thisislegal.com/) - A hacker wargames site with much more such as forums and tutorials
 - [Try2Hack](http://www.try2hack.nl/) - This site provides several security-oriented challenges for your entertainment. It is actually one of the oldest challenge sites still around
